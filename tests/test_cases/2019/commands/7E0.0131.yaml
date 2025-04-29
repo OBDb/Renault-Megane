@@ -767,3 +767,114 @@ test_cases:
 - response: 7E80441319DA0
   expected_values:
     CLR_DIST: 40352
+- response: 7E80441319DA1
+  expected_values:
+    CLR_DIST: 40353
+- response: 7E80441319DA2
+  expected_values:
+    CLR_DIST: 40354
+- response: 7E80441319DA3
+  expected_values:
+    CLR_DIST: 40355
+- response: 7E80441319DA4
+  expected_values:
+    CLR_DIST: 40356
+- response: 7E80441319DA5
+  expected_values:
+    CLR_DIST: 40357
+- response: 7E80441319DA6
+  expected_values:
+    CLR_DIST: 40358
+- response: 7E80441319DA7
+  expected_values:
+    CLR_DIST: 40359
+- response: 7E80441319DA8
+  expected_values:
+    CLR_DIST: 40360
+- response: 7E80441319DA9
+  expected_values:
+    CLR_DIST: 40361
+- response: 7E80441319DAA
+  expected_values:
+    CLR_DIST: 40362
+- response: 7E80441319DAB
+  expected_values:
+    CLR_DIST: 40363
+- response: 7E80441319DAC
+  expected_values:
+    CLR_DIST: 40364
+- response: 7E80441319DAD
+  expected_values:
+    CLR_DIST: 40365
+- response: 7E80441319DAE
+  expected_values:
+    CLR_DIST: 40366
+- response: 7E80441319DAF
+  expected_values:
+    CLR_DIST: 40367
+- response: 7E80441319DB0
+  expected_values:
+    CLR_DIST: 40368
+- response: 7E80441319DB1
+  expected_values:
+    CLR_DIST: 40369
+- response: 7E80441319DB2
+  expected_values:
+    CLR_DIST: 40370
+- response: 7E80441319DB3
+  expected_values:
+    CLR_DIST: 40371
+- response: 7E80441319DB4
+  expected_values:
+    CLR_DIST: 40372
+- response: 7E80441319DB5
+  expected_values:
+    CLR_DIST: 40373
+- response: 7E80441319DB6
+  expected_values:
+    CLR_DIST: 40374
+- response: 7E80441319DB7
+  expected_values:
+    CLR_DIST: 40375
+- response: 7E80441319DB8
+  expected_values:
+    CLR_DIST: 40376
+- response: 7E80441319DB9
+  expected_values:
+    CLR_DIST: 40377
+- response: 7E80441319DBA
+  expected_values:
+    CLR_DIST: 40378
+- response: 7E80441319DBB
+  expected_values:
+    CLR_DIST: 40379
+- response: 7E80441319DBC
+  expected_values:
+    CLR_DIST: 40380
+- response: 7E80441319DBD
+  expected_values:
+    CLR_DIST: 40381
+- response: 7E80441319DBE
+  expected_values:
+    CLR_DIST: 40382
+- response: 7E80441319DBF
+  expected_values:
+    CLR_DIST: 40383
+- response: 7E80441319DC0
+  expected_values:
+    CLR_DIST: 40384
+- response: 7E80441319DC1
+  expected_values:
+    CLR_DIST: 40385
+- response: 7E80441319DC2
+  expected_values:
+    CLR_DIST: 40386
+- response: 7E80441319DC3
+  expected_values:
+    CLR_DIST: 40387
+- response: 7E80441319DC4
+  expected_values:
+    CLR_DIST: 40388
+- response: 7E80441319DC5
+  expected_values:
+    CLR_DIST: 40389
