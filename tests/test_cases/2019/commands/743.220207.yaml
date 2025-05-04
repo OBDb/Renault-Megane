@@ -1130,3 +1130,597 @@ test_cases:
 - response: 7630662020701367E
   expected_values:
     RENAULT_ODO: 79486
+- response: 7630662020701367F
+  expected_values:
+    RENAULT_ODO: 79487
+- response: '76306620207013680'
+  expected_values:
+    RENAULT_ODO: 79488
+- response: '76306620207013681'
+  expected_values:
+    RENAULT_ODO: 79489
+- response: '76306620207013682'
+  expected_values:
+    RENAULT_ODO: 79490
+- response: '76306620207013683'
+  expected_values:
+    RENAULT_ODO: 79491
+- response: '76306620207013684'
+  expected_values:
+    RENAULT_ODO: 79492
+- response: '76306620207013685'
+  expected_values:
+    RENAULT_ODO: 79493
+- response: '76306620207013686'
+  expected_values:
+    RENAULT_ODO: 79494
+- response: '76306620207013687'
+  expected_values:
+    RENAULT_ODO: 79495
+- response: '76306620207013688'
+  expected_values:
+    RENAULT_ODO: 79496
+- response: '76306620207013689'
+  expected_values:
+    RENAULT_ODO: 79497
+- response: 7630662020701368A
+  expected_values:
+    RENAULT_ODO: 79498
+- response: 7630662020701368B
+  expected_values:
+    RENAULT_ODO: 79499
+- response: 7630662020701368C
+  expected_values:
+    RENAULT_ODO: 79500
+- response: 7630662020701368D
+  expected_values:
+    RENAULT_ODO: 79501
+- response: 7630662020701368E
+  expected_values:
+    RENAULT_ODO: 79502
+- response: 7630662020701368F
+  expected_values:
+    RENAULT_ODO: 79503
+- response: '76306620207013690'
+  expected_values:
+    RENAULT_ODO: 79504
+- response: '76306620207013691'
+  expected_values:
+    RENAULT_ODO: 79505
+- response: '76306620207013692'
+  expected_values:
+    RENAULT_ODO: 79506
+- response: '76306620207013693'
+  expected_values:
+    RENAULT_ODO: 79507
+- response: '76306620207013694'
+  expected_values:
+    RENAULT_ODO: 79508
+- response: '76306620207013695'
+  expected_values:
+    RENAULT_ODO: 79509
+- response: '76306620207013696'
+  expected_values:
+    RENAULT_ODO: 79510
+- response: '76306620207013697'
+  expected_values:
+    RENAULT_ODO: 79511
+- response: '76306620207013698'
+  expected_values:
+    RENAULT_ODO: 79512
+- response: '76306620207013699'
+  expected_values:
+    RENAULT_ODO: 79513
+- response: 7630662020701369A
+  expected_values:
+    RENAULT_ODO: 79514
+- response: 7630662020701369B
+  expected_values:
+    RENAULT_ODO: 79515
+- response: 7630662020701369C
+  expected_values:
+    RENAULT_ODO: 79516
+- response: 7630662020701369D
+  expected_values:
+    RENAULT_ODO: 79517
+- response: 7630662020701369E
+  expected_values:
+    RENAULT_ODO: 79518
+- response: 7630662020701369F
+  expected_values:
+    RENAULT_ODO: 79519
+- response: 763066202070136A0
+  expected_values:
+    RENAULT_ODO: 79520
+- response: 763066202070136A1
+  expected_values:
+    RENAULT_ODO: 79521
+- response: 763066202070136A2
+  expected_values:
+    RENAULT_ODO: 79522
+- response: 763066202070136B1
+  expected_values:
+    RENAULT_ODO: 79537
+- response: 763066202070136B2
+  expected_values:
+    RENAULT_ODO: 79538
+- response: 763066202070136B3
+  expected_values:
+    RENAULT_ODO: 79539
+- response: 763066202070136B4
+  expected_values:
+    RENAULT_ODO: 79540
+- response: 763066202070136B5
+  expected_values:
+    RENAULT_ODO: 79541
+- response: 763066202070136B6
+  expected_values:
+    RENAULT_ODO: 79542
+- response: 763066202070136B7
+  expected_values:
+    RENAULT_ODO: 79543
+- response: 763066202070136B8
+  expected_values:
+    RENAULT_ODO: 79544
+- response: 763066202070136B9
+  expected_values:
+    RENAULT_ODO: 79545
+- response: 763066202070136BA
+  expected_values:
+    RENAULT_ODO: 79546
+- response: 763066202070136BB
+  expected_values:
+    RENAULT_ODO: 79547
+- response: 763066202070136BC
+  expected_values:
+    RENAULT_ODO: 79548
+- response: 763066202070136BD
+  expected_values:
+    RENAULT_ODO: 79549
+- response: 763066202070136BE
+  expected_values:
+    RENAULT_ODO: 79550
+- response: 763066202070136BF
+  expected_values:
+    RENAULT_ODO: 79551
+- response: 763066202070136C0
+  expected_values:
+    RENAULT_ODO: 79552
+- response: 763066202070136C1
+  expected_values:
+    RENAULT_ODO: 79553
+- response: 763066202070136C2
+  expected_values:
+    RENAULT_ODO: 79554
+- response: 763066202070136C3
+  expected_values:
+    RENAULT_ODO: 79555
+- response: 763066202070136C4
+  expected_values:
+    RENAULT_ODO: 79556
+- response: 763066202070136C5
+  expected_values:
+    RENAULT_ODO: 79557
+- response: 763066202070136C6
+  expected_values:
+    RENAULT_ODO: 79558
+- response: 763066202070136C7
+  expected_values:
+    RENAULT_ODO: 79559
+- response: 763066202070136C8
+  expected_values:
+    RENAULT_ODO: 79560
+- response: 763066202070136C9
+  expected_values:
+    RENAULT_ODO: 79561
+- response: 763066202070136CA
+  expected_values:
+    RENAULT_ODO: 79562
+- response: 763066202070136CB
+  expected_values:
+    RENAULT_ODO: 79563
+- response: 763066202070136CC
+  expected_values:
+    RENAULT_ODO: 79564
+- response: 763066202070136CD
+  expected_values:
+    RENAULT_ODO: 79565
+- response: 763066202070136CE
+  expected_values:
+    RENAULT_ODO: 79566
+- response: 763066202070136CF
+  expected_values:
+    RENAULT_ODO: 79567
+- response: 763066202070136D0
+  expected_values:
+    RENAULT_ODO: 79568
+- response: 763066202070136D1
+  expected_values:
+    RENAULT_ODO: 79569
+- response: 763066202070136D2
+  expected_values:
+    RENAULT_ODO: 79570
+- response: 763066202070136D3
+  expected_values:
+    RENAULT_ODO: 79571
+- response: 763066202070136D4
+  expected_values:
+    RENAULT_ODO: 79572
+- response: 763066202070136D5
+  expected_values:
+    RENAULT_ODO: 79573
+- response: 763066202070136D6
+  expected_values:
+    RENAULT_ODO: 79574
+- response: 763066202070136D7
+  expected_values:
+    RENAULT_ODO: 79575
+- response: 763066202070136D8
+  expected_values:
+    RENAULT_ODO: 79576
+- response: 763066202070136D9
+  expected_values:
+    RENAULT_ODO: 79577
+- response: 763066202070136DA
+  expected_values:
+    RENAULT_ODO: 79578
+- response: 763066202070136DB
+  expected_values:
+    RENAULT_ODO: 79579
+- response: 763066202070136DC
+  expected_values:
+    RENAULT_ODO: 79580
+- response: 763066202070136DD
+  expected_values:
+    RENAULT_ODO: 79581
+- response: 763066202070136DE
+  expected_values:
+    RENAULT_ODO: 79582
+- response: 763066202070136DF
+  expected_values:
+    RENAULT_ODO: 79583
+- response: '763066202070136E0'
+  expected_values:
+    RENAULT_ODO: 79584
+- response: '763066202070136E1'
+  expected_values:
+    RENAULT_ODO: 79585
+- response: '763066202070136E2'
+  expected_values:
+    RENAULT_ODO: 79586
+- response: '763066202070136E3'
+  expected_values:
+    RENAULT_ODO: 79587
+- response: '763066202070136E4'
+  expected_values:
+    RENAULT_ODO: 79588
+- response: '763066202070136E5'
+  expected_values:
+    RENAULT_ODO: 79589
+- response: 763066202070136F2
+  expected_values:
+    RENAULT_ODO: 79602
+- response: 763066202070136F3
+  expected_values:
+    RENAULT_ODO: 79603
+- response: 763066202070136F4
+  expected_values:
+    RENAULT_ODO: 79604
+- response: 763066202070136F5
+  expected_values:
+    RENAULT_ODO: 79605
+- response: 763066202070136F6
+  expected_values:
+    RENAULT_ODO: 79606
+- response: 763066202070136F7
+  expected_values:
+    RENAULT_ODO: 79607
+- response: 763066202070136F8
+  expected_values:
+    RENAULT_ODO: 79608
+- response: 763066202070136F9
+  expected_values:
+    RENAULT_ODO: 79609
+- response: 763066202070136FA
+  expected_values:
+    RENAULT_ODO: 79610
+- response: 763066202070136FB
+  expected_values:
+    RENAULT_ODO: 79611
+- response: 763066202070136FC
+  expected_values:
+    RENAULT_ODO: 79612
+- response: 763066202070136FD
+  expected_values:
+    RENAULT_ODO: 79613
+- response: 763066202070136FE
+  expected_values:
+    RENAULT_ODO: 79614
+- response: 763066202070136FF
+  expected_values:
+    RENAULT_ODO: 79615
+- response: '76306620207013700'
+  expected_values:
+    RENAULT_ODO: 79616
+- response: '76306620207013701'
+  expected_values:
+    RENAULT_ODO: 79617
+- response: '76306620207013702'
+  expected_values:
+    RENAULT_ODO: 79618
+- response: '76306620207013703'
+  expected_values:
+    RENAULT_ODO: 79619
+- response: '76306620207013704'
+  expected_values:
+    RENAULT_ODO: 79620
+- response: '76306620207013705'
+  expected_values:
+    RENAULT_ODO: 79621
+- response: '76306620207013706'
+  expected_values:
+    RENAULT_ODO: 79622
+- response: '76306620207013707'
+  expected_values:
+    RENAULT_ODO: 79623
+- response: '76306620207013708'
+  expected_values:
+    RENAULT_ODO: 79624
+- response: '76306620207013709'
+  expected_values:
+    RENAULT_ODO: 79625
+- response: 7630662020701370A
+  expected_values:
+    RENAULT_ODO: 79626
+- response: 7630662020701370B
+  expected_values:
+    RENAULT_ODO: 79627
+- response: 7630662020701370C
+  expected_values:
+    RENAULT_ODO: 79628
+- response: 7630662020701370D
+  expected_values:
+    RENAULT_ODO: 79629
+- response: 7630662020701370E
+  expected_values:
+    RENAULT_ODO: 79630
+- response: 7630662020701370F
+  expected_values:
+    RENAULT_ODO: 79631
+- response: '76306620207013710'
+  expected_values:
+    RENAULT_ODO: 79632
+- response: '76306620207013711'
+  expected_values:
+    RENAULT_ODO: 79633
+- response: '76306620207013712'
+  expected_values:
+    RENAULT_ODO: 79634
+- response: '76306620207013713'
+  expected_values:
+    RENAULT_ODO: 79635
+- response: '76306620207013714'
+  expected_values:
+    RENAULT_ODO: 79636
+- response: '76306620207013715'
+  expected_values:
+    RENAULT_ODO: 79637
+- response: '76306620207013716'
+  expected_values:
+    RENAULT_ODO: 79638
+- response: '76306620207013717'
+  expected_values:
+    RENAULT_ODO: 79639
+- response: '76306620207013718'
+  expected_values:
+    RENAULT_ODO: 79640
+- response: '76306620207013719'
+  expected_values:
+    RENAULT_ODO: 79641
+- response: 7630662020701371A
+  expected_values:
+    RENAULT_ODO: 79642
+- response: 7630662020701371B
+  expected_values:
+    RENAULT_ODO: 79643
+- response: 7630662020701371C
+  expected_values:
+    RENAULT_ODO: 79644
+- response: 7630662020701371D
+  expected_values:
+    RENAULT_ODO: 79645
+- response: 7630662020701371E
+  expected_values:
+    RENAULT_ODO: 79646
+- response: 7630662020701371F
+  expected_values:
+    RENAULT_ODO: 79647
+- response: '76306620207013720'
+  expected_values:
+    RENAULT_ODO: 79648
+- response: '76306620207013721'
+  expected_values:
+    RENAULT_ODO: 79649
+- response: '76306620207013722'
+  expected_values:
+    RENAULT_ODO: 79650
+- response: '76306620207013723'
+  expected_values:
+    RENAULT_ODO: 79651
+- response: '76306620207013724'
+  expected_values:
+    RENAULT_ODO: 79652
+- response: '76306620207013725'
+  expected_values:
+    RENAULT_ODO: 79653
+- response: '76306620207013726'
+  expected_values:
+    RENAULT_ODO: 79654
+- response: '76306620207013727'
+  expected_values:
+    RENAULT_ODO: 79655
+- response: '76306620207013728'
+  expected_values:
+    RENAULT_ODO: 79656
+- response: '76306620207013729'
+  expected_values:
+    RENAULT_ODO: 79657
+- response: 7630662020701372A
+  expected_values:
+    RENAULT_ODO: 79658
+- response: 7630662020701372B
+  expected_values:
+    RENAULT_ODO: 79659
+- response: 7630662020701372C
+  expected_values:
+    RENAULT_ODO: 79660
+- response: 7630662020701372D
+  expected_values:
+    RENAULT_ODO: 79661
+- response: 7630662020701372E
+  expected_values:
+    RENAULT_ODO: 79662
+- response: 7630662020701372F
+  expected_values:
+    RENAULT_ODO: 79663
+- response: '76306620207013730'
+  expected_values:
+    RENAULT_ODO: 79664
+- response: '76306620207013731'
+  expected_values:
+    RENAULT_ODO: 79665
+- response: '76306620207013732'
+  expected_values:
+    RENAULT_ODO: 79666
+- response: '76306620207013733'
+  expected_values:
+    RENAULT_ODO: 79667
+- response: '76306620207013734'
+  expected_values:
+    RENAULT_ODO: 79668
+- response: '76306620207013735'
+  expected_values:
+    RENAULT_ODO: 79669
+- response: '76306620207013736'
+  expected_values:
+    RENAULT_ODO: 79670
+- response: '76306620207013737'
+  expected_values:
+    RENAULT_ODO: 79671
+- response: '76306620207013738'
+  expected_values:
+    RENAULT_ODO: 79672
+- response: '76306620207013739'
+  expected_values:
+    RENAULT_ODO: 79673
+- response: 7630662020701373A
+  expected_values:
+    RENAULT_ODO: 79674
+- response: 7630662020701373B
+  expected_values:
+    RENAULT_ODO: 79675
+- response: 7630662020701373C
+  expected_values:
+    RENAULT_ODO: 79676
+- response: 7630662020701373D
+  expected_values:
+    RENAULT_ODO: 79677
+- response: 7630662020701373E
+  expected_values:
+    RENAULT_ODO: 79678
+- response: 7630662020701373F
+  expected_values:
+    RENAULT_ODO: 79679
+- response: '76306620207013740'
+  expected_values:
+    RENAULT_ODO: 79680
+- response: '76306620207013741'
+  expected_values:
+    RENAULT_ODO: 79681
+- response: '76306620207013742'
+  expected_values:
+    RENAULT_ODO: 79682
+- response: '76306620207013743'
+  expected_values:
+    RENAULT_ODO: 79683
+- response: '76306620207013744'
+  expected_values:
+    RENAULT_ODO: 79684
+- response: '76306620207013745'
+  expected_values:
+    RENAULT_ODO: 79685
+- response: '76306620207013746'
+  expected_values:
+    RENAULT_ODO: 79686
+- response: '76306620207013747'
+  expected_values:
+    RENAULT_ODO: 79687
+- response: '76306620207013748'
+  expected_values:
+    RENAULT_ODO: 79688
+- response: '76306620207013749'
+  expected_values:
+    RENAULT_ODO: 79689
+- response: 7630662020701374A
+  expected_values:
+    RENAULT_ODO: 79690
+- response: 7630662020701374B
+  expected_values:
+    RENAULT_ODO: 79691
+- response: 7630662020701374C
+  expected_values:
+    RENAULT_ODO: 79692
+- response: 7630662020701374D
+  expected_values:
+    RENAULT_ODO: 79693
+- response: 7630662020701374E
+  expected_values:
+    RENAULT_ODO: 79694
+- response: 7630662020701374F
+  expected_values:
+    RENAULT_ODO: 79695
+- response: '76306620207013750'
+  expected_values:
+    RENAULT_ODO: 79696
+- response: '76306620207013751'
+  expected_values:
+    RENAULT_ODO: 79697
+- response: '76306620207013752'
+  expected_values:
+    RENAULT_ODO: 79698
+- response: '76306620207013753'
+  expected_values:
+    RENAULT_ODO: 79699
+- response: '76306620207013754'
+  expected_values:
+    RENAULT_ODO: 79700
+- response: '76306620207013755'
+  expected_values:
+    RENAULT_ODO: 79701
+- response: '76306620207013756'
+  expected_values:
+    RENAULT_ODO: 79702
+- response: '76306620207013757'
+  expected_values:
+    RENAULT_ODO: 79703
+- response: '76306620207013758'
+  expected_values:
+    RENAULT_ODO: 79704
+- response: '76306620207013759'
+  expected_values:
+    RENAULT_ODO: 79705
+- response: 7630662020701375A
+  expected_values:
+    RENAULT_ODO: 79706
+- response: 7630662020701375B
+  expected_values:
+    RENAULT_ODO: 79707
+- response: 7630662020701375C
+  expected_values:
+    RENAULT_ODO: 79708
+- response: 7630662020701375D
+  expected_values:
+    RENAULT_ODO: 79709
+- response: 7630662020701375E
+  expected_values:
+    RENAULT_ODO: 79710
