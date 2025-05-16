@@ -56,3 +56,9 @@ supported_commands_by_ecu:
   - 018E:TQ_FR
   - 019D:FUEL_RATE_ALT,VFUEL_RATE
   - 019E:EXH_RATE
+unsupported_commands_by_ecu:
+  7DF:
+  - 7DF.7E8.2228C6
+  7E0:
+  - 7E0.7E8.0131
+  - 7E0.7E8.2228C6
