@@ -20,3 +20,8 @@ supported_commands_by_ecu:
   - 0121:MIL_DIST
   - 0130:WARM_UPS
   - 0131:CLR_DIST
+  - 7E0.010D:VSS
+  - 7E0.0131:CLR_DIST
+unsupported_commands_by_ecu:
+  743:
+  - 743.220207:RENAULT_ODO
