@@ -4,23 +4,8 @@ test_cases:
     CLR_DIST: 1963
   response: 7E804413107AB
 - expected_values:
-    CLR_DIST: 1964
-  response: 7E804413107AC
+    CLR_DIST: 4802
+  response: 7E804413112C2
 - expected_values:
-    CLR_DIST: 1965
-  response: 7E804413107AD
-- expected_values:
-    CLR_DIST: 1967
-  response: 7E804413107AF
-- expected_values:
-    CLR_DIST: 1968
-  response: 7E804413107B0
-- expected_values:
-    CLR_DIST: 1969
-  response: 7E804413107B1
-- expected_values:
-    CLR_DIST: 1971
-  response: 7E804413107B3
-- expected_values:
-    CLR_DIST: 1972
-  response: 7E804413107B4
+    CLR_DIST: 4812
+  response: 7E804413112CC
