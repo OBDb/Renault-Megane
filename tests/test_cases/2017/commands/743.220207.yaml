@@ -1,0 +1,11 @@
+command_id: '743.220207'
+test_cases:
+- expected_values:
+    RENAULT_ODO: 105524
+  response: 76306620207019C34
+- expected_values:
+    RENAULT_ODO: 105525
+  response: 76306620207019C35
+- expected_values:
+    RENAULT_ODO: 105526
+  response: 76306620207019C36
