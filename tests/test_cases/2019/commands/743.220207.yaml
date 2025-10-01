@@ -1,6 +1,9 @@
 command_id: '743.220207'
 test_cases:
 - expected_values:
+    RENAULT_ODO: 84885
+  response: '763 06 62 02 07 01 4B 95 '
+- expected_values:
     RENAULT_ODO: 79084
   response: 763066202070134EC
 - expected_values:
@@ -10,5 +13,5 @@ test_cases:
     RENAULT_ODO: 79104
   response: '76306620207013500'
 - expected_values:
-    RENAULT_ODO: 81408
-  response: '76306620207013E00'
+    RENAULT_ODO: 84736
+  response: 76306620207014B00
