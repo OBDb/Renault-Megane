@@ -3,3 +3,11 @@ test_cases:
 - expected_values:
     FUEL_TYP: ELEC
   response: 18DAF1DA03415108
+- expected_values:
+    FUEL_TYP: ELEC
+  response: 18DAF1DE03415108
+- expected_values:
+    FUEL_TYP: ELEC
+  response: |-
+    18DAF1DE03415108
+    18DAF1DA03415108
