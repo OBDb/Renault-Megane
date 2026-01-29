@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Renault_Megane"
+
 generations:
   - name: "First Generation"
     start_year: 1995
@@ -16,7 +19,7 @@ generations:
 
   - name: "Fourth Generation"
     start_year: 2016
-    end_year: 2021
+    end_year: 2024
     description: "The fourth-generation Renault Megane, designed under Laurens van den Acker, featured a more distinctive and dynamic design with pronounced shoulders, C-shaped LED daytime running lights, and connected rear lights creating a horizontal signature. Built on the Common Module Family (CMF-C/D) platform shared with the Nissan Pulsar and Renault Kadjar, the Megane grew slightly in size while adopting a wider, lower stance for a more athletic appearance. Available as a five-door hatchback and estate (Sport Tourer), though coupe and convertible variants were discontinued. Engine options included the 1.2 TCe and 1.6 TCe gasoline engines, a hybrid option added later, and the 1.5 dCi and 1.6 dCi diesel engines, with power outputs ranging from 110 to 205 horsepower in standard models. The performance GT variant featured 4Control four-wheel steering—unique in the segment. The Renault Sport model came exclusively with a 1.8-liter turbocharged engine producing 280 horsepower, available with either a 6-speed manual or dual-clutch automatic transmission. The interior represents a significant technological leap with the portrait-oriented 8.7-inch R-Link 2 touchscreen infotainment system on higher trims, customizable ambient lighting, and a digital instrument cluster. A comprehensive suite of driver assistance systems was available including adaptive cruise control, lane departure warning, and automated parking. The fourth-generation Megane faced increasing competition from both traditional rivals and the growing SUV segment, leading Renault to focus more on the crossover variants in many markets while transitioning the Megane nameplate toward electrification."
 
   - name: "Fifth Generation"
