@@ -3,5 +3,10 @@ test_cases:
 - expected_values:
     BAT_SOH: 98.82353
   response: |-
+    18DAF1DA0341B2FC
+    18DAF1DB0341B2FC
+- expected_values:
+    BAT_SOH: 98.82353
+  response: |-
     18DAF1DB0341B2FC
     18DAF1DA0341B2FC
