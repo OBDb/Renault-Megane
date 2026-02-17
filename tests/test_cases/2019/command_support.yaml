@@ -83,6 +83,8 @@ supported_commands_by_ecu:
   - 7E0.010D:VSS
   - 7E0.010E:SPARKADV
   - 7E0.010F:IAT
+  - 7E0.0110:MAF
+  - 7E0.0111:TP
   - 7E0.011E:PTO_STAT
   - 7E0.011F:RUNTM
   - 7E0.0121:MIL_DIST
@@ -104,6 +106,7 @@ supported_commands_by_ecu:
   - 7E0.0155:STSO2FT1
   - 7E0.0156:LGSO2FT1
   - 7E0.015C:EOT
+  - 7E0.015E:FUEL_RATE
   - 7E0.0161:TQ_DD
   - 7E0.0162:TQ_ACT
   - 7E0.0163:TQ_REF
