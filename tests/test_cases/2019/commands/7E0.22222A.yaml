@@ -4,5 +4,5 @@ test_cases:
     RENAULT_REFRIG_P: 5.3
   response: 7E80562222A0035
 - expected_values:
-    RENAULT_REFRIG_P: 7.9
-  response: 7E80562222A004F
+    RENAULT_REFRIG_P: 8.1
+  response: 7E80562222A0051

@@ -1,8 +1,8 @@
 command_id: 7E0.22240B
 test_cases:
 - expected_values:
-    RENAULT_MANIFOLD_P: 24.2
-  response: 7E80562240B00F2
+    RENAULT_MANIFOLD_P: 23.5
+  response: 7E80562240B00EB
 - expected_values:
     RENAULT_MANIFOLD_P: 25.5
   response: 7E80562240B00FF
@@ -10,5 +10,5 @@ test_cases:
     RENAULT_MANIFOLD_P: 25.9
   response: 7E80562240B0103
 - expected_values:
-    RENAULT_MANIFOLD_P: 172.4
-  response: 7E80562240B06BC
+    RENAULT_MANIFOLD_P: 206.8
+  response: 7E80562240B0814
