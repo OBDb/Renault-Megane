@@ -1,0 +1,11 @@
+command_id: 7E0.222003
+test_cases:
+- expected_values:
+    RENAULT_VSS: 0
+  response: '7E8056220030000'
+- expected_values:
+    RENAULT_VSS: 92.11
+  response: 7E80562200323FB
+- expected_values:
+    RENAULT_VSS: 96.02
+  response: '7E8056220032582'

@@ -1,0 +1,8 @@
+command_id: 7E0.222057
+test_cases:
+- expected_values:
+    RENAULT_ALT_PWR: 100
+  response: 7E805622057000A
+- expected_values:
+    RENAULT_ALT_PWR: 1140
+  response: '7E8056220570072'

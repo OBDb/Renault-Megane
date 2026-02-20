@@ -1,0 +1,8 @@
+command_id: 7E0.22284E
+test_cases:
+- expected_values:
+    RENAULT_RICHNESS_CORR: 1
+  response: 7E80462284E01
+- expected_values:
+    RENAULT_RICHNESS_CORR: 16
+  response: 7E80462284E10

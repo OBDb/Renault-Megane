@@ -1,0 +1,11 @@
+command_id: 7E0.22200F
+test_cases:
+- expected_values:
+    RENAULT_BRAKE_MUX_SIG: 0
+  response: 7E80462200F00
+- expected_values:
+    RENAULT_BRAKE_MUX_SIG: 1
+  response: 7E80462200F01
+- expected_values:
+    RENAULT_BRAKE_MUX_SIG: 2
+  response: 7E80462200F02

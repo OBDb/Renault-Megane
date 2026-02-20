@@ -1,0 +1,8 @@
+command_id: 7E0.222059
+test_cases:
+- expected_values:
+    RENAULT_CLUTCH_TRAVEL_SW: 0
+  response: '7E80462205900'
+- expected_values:
+    RENAULT_CLUTCH_TRAVEL_SW: 1
+  response: '7E80462205901'

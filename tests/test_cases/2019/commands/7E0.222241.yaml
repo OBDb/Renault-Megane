@@ -1,0 +1,5 @@
+command_id: 7E0.222241
+test_cases:
+- expected_values:
+    RENAULT_IN_CAM_DEPHASER_SOL_PROG: 1
+  response: '7E80462224101'

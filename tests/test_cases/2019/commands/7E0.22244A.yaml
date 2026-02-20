@@ -1,0 +1,11 @@
+command_id: 7E0.22244A
+test_cases:
+- expected_values:
+    RENAULT_O2_DN_V: 0
+  response: 7E80562244A0000
+- expected_values:
+    RENAULT_O2_DN_V: 766
+  response: 7E80562244A02FE
+- expected_values:
+    RENAULT_O2_DN_V: 771
+  response: 7E80562244A0303

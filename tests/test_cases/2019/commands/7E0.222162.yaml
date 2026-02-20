@@ -1,0 +1,5 @@
+command_id: 7E0.222162
+test_cases:
+- expected_values:
+    RENAULT_CRANK_SYNC_LOSS_CNT: 0
+  response: '7E8056221620000'

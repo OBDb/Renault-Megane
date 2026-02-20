@@ -1,0 +1,8 @@
+command_id: 7E0.22222D
+test_cases:
+- expected_values:
+    RENAULT_CLUTCH_PEDAL_SW: 0
+  response: 7E80462222D00
+- expected_values:
+    RENAULT_CLUTCH_PEDAL_SW: 1
+  response: 7E80462222D01

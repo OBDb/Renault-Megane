@@ -1,0 +1,5 @@
+command_id: 7E0.22206B
+test_cases:
+- expected_values:
+    RENAULT_BRAKE_CONTACT_2_DUR: 0
+  response: 7E80562206B0000

@@ -1,0 +1,8 @@
+command_id: 7E0.22281B
+test_cases:
+- expected_values:
+    RENAULT_LOW_FUEL: 0
+  response: 7E80462281B00
+- expected_values:
+    RENAULT_LOW_FUEL: 1
+  response: 7E80462281B01

@@ -1,0 +1,5 @@
+command_id: 7E0.222874
+test_cases:
+- expected_values:
+    RENAULT_MISFIRE_CNT: 65535
+  response: 7E805622874FFFF

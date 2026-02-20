@@ -1,0 +1,14 @@
+command_id: 7E0.2224D7
+test_cases:
+- expected_values:
+    RENAULT_MANIFOLD_P_LIN: 233
+  response: 7E8056224D700E9
+- expected_values:
+    RENAULT_MANIFOLD_P_LIN: 255
+  response: 7E8056224D700FF
+- expected_values:
+    RENAULT_MANIFOLD_P_LIN: 257
+  response: 7E8056224D70101
+- expected_values:
+    RENAULT_MANIFOLD_P_LIN: 1704
+  response: 7E8056224D706A8

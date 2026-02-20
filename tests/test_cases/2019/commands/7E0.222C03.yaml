@@ -1,0 +1,26 @@
+command_id: 7E0.222C03
+test_cases:
+- expected_values:
+    RENAULT_GEARBOX_RATIO_TGT: 0
+  response: 7E804622C0300
+- expected_values:
+    RENAULT_GEARBOX_RATIO_TGT: 1
+  response: 7E804622C0301
+- expected_values:
+    RENAULT_GEARBOX_RATIO_TGT: 2
+  response: 7E804622C0302
+- expected_values:
+    RENAULT_GEARBOX_RATIO_TGT: 3
+  response: 7E804622C0303
+- expected_values:
+    RENAULT_GEARBOX_RATIO_TGT: 4
+  response: 7E804622C0304
+- expected_values:
+    RENAULT_GEARBOX_RATIO_TGT: 5
+  response: 7E804622C0305
+- expected_values:
+    RENAULT_GEARBOX_RATIO_TGT: 6
+  response: 7E804622C0306
+- expected_values:
+    RENAULT_GEARBOX_RATIO_TGT: 7
+  response: 7E804622C0307

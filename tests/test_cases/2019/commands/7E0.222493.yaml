@@ -1,0 +1,5 @@
+command_id: 7E0.222493
+test_cases:
+- expected_values:
+    RENAULT_TEST_RESULT_1: 0
+  response: '7E80462249300'

@@ -1,0 +1,5 @@
+command_id: 7E0.222457
+test_cases:
+- expected_values:
+    RENAULT_THROTTLE_LOW_STOP_PROG: 0
+  response: '7E8056224570000'

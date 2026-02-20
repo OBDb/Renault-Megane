@@ -1,0 +1,8 @@
+command_id: 7E0.222014
+test_cases:
+- expected_values:
+    RENAULT_CAM_TDC_SYNC: 0
+  response: '7E80462201400'
+- expected_values:
+    RENAULT_CAM_TDC_SYNC: 1
+  response: '7E80462201401'

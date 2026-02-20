@@ -1,0 +1,14 @@
+command_id: 7E0.222004
+test_cases:
+- expected_values:
+    RENAULT_ENGINE_TORQUE: -19.5
+  response: 7E8056220042F90
+- expected_values:
+    RENAULT_ENGINE_TORQUE: -7.96875
+  response: '7E8056220043101'
+- expected_values:
+    RENAULT_ENGINE_TORQUE: -0.125
+  response: 7E80562200431FC
+- expected_values:
+    RENAULT_ENGINE_TORQUE: 141.15625
+  response: 7E80562200443A5
