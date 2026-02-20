@@ -11,6 +11,16 @@ test_cases:
     WG_B_CMD_SUP: 0
   response: 7E8074172034446FFFF
 - expected_values:
+    WG_A_ACT: 71.76471
+    WG_A_ACT_SUP: 1
+    WG_A_CMD: 71.37255
+    WG_A_CMD_SUP: 1
+    WG_B_ACT: 100
+    WG_B_ACT_SUP: 0
+    WG_B_CMD: 100
+    WG_B_CMD_SUP: 0
+  response: 7E807417203B6B7FFFF
+- expected_values:
     WG_A_ACT: 72.54902
     WG_A_ACT_SUP: 1
     WG_A_CMD: 72.15686
