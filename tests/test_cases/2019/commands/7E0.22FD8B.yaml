@@ -1,0 +1,5 @@
+command_id: 7E0.22FD8B
+test_cases:
+- expected_values:
+    RENAULT_COOLANT_T_SNS_V: 0
+  response: 7E80562FD8B0000

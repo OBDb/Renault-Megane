@@ -1,0 +1,8 @@
+command_id: 7E0.22200E
+test_cases:
+- expected_values:
+    RENAULT_ECU_POST_IGN: 0
+  response: 7E80462200E00
+- expected_values:
+    RENAULT_ECU_POST_IGN: 1
+  response: 7E80462200E01

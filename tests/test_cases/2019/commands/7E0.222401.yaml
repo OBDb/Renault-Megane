@@ -1,0 +1,5 @@
+command_id: 7E0.222401
+test_cases:
+- expected_values:
+    RENAULT_BOOST_P: 1.013
+  response: 7E80562240103F5

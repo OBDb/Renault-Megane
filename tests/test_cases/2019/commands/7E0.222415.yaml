@@ -1,0 +1,5 @@
+command_id: 7E0.222415
+test_cases:
+- expected_values:
+    RENAULT_THROTTLE_POS_1: 0
+  response: '7E8056224150000'

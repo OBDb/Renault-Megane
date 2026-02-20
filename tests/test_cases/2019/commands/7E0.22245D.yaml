@@ -1,0 +1,5 @@
+command_id: 7E0.22245D
+test_cases:
+- expected_values:
+    RENAULT_THROTTLE_LIMITS_PROG: 0
+  response: 7E80462245D00

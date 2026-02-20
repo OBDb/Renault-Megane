@@ -1,0 +1,8 @@
+command_id: 7E0.222026
+test_cases:
+- expected_values:
+    RENAULT_WIRED_BRAKE_CONTACT: 1
+  response: '7E80462202601'
+- expected_values:
+    RENAULT_WIRED_BRAKE_CONTACT: 2
+  response: '7E80462202602'

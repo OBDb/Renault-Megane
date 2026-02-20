@@ -1,0 +1,5 @@
+command_id: 7E0.222025
+test_cases:
+- expected_values:
+    RENAULT_BRAKE_PEDAL: 2
+  response: '7E80462202502'

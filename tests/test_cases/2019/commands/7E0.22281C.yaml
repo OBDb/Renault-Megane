@@ -1,0 +1,8 @@
+command_id: 7E0.22281C
+test_cases:
+- expected_values:
+    RENAULT_FUEL_PUMP_CTRL: 0
+  response: 7E80462281C00
+- expected_values:
+    RENAULT_FUEL_PUMP_CTRL: 1
+  response: 7E80462281C01

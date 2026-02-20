@@ -1,0 +1,5 @@
+command_id: 7E0.2224C9
+test_cases:
+- expected_values:
+    RENAULT_THROTTLE_SAFE_MODE_PROG: 0
+  response: 7E8056224C90000

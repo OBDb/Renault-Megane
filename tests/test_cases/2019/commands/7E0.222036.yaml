@@ -1,0 +1,5 @@
+command_id: 7E0.222036
+test_cases:
+- expected_values:
+    RENAULT_ACCEL_DETECT_BLOCKED: 0
+  response: '7E80462203600'

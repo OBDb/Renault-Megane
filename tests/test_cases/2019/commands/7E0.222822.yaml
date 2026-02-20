@@ -1,0 +1,11 @@
+command_id: 7E0.222822
+test_cases:
+- expected_values:
+    RENAULT_CANISTER_BLEED_SOL_RCO: 0
+  response: '7E8056228220000'
+- expected_values:
+    RENAULT_CANISTER_BLEED_SOL_RCO: 7.02983
+  response: 7E80562282211FF
+- expected_values:
+    RENAULT_CANISTER_BLEED_SOL_RCO: 99.60937
+  response: 7E805622822FEFF

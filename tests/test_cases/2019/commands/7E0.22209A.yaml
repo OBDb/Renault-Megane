@@ -1,0 +1,5 @@
+command_id: 7E0.22209A
+test_cases:
+- expected_values:
+    RENAULT_IDLE_ADAPT_CORR: -2.84375
+  response: 7E80562209A7FA5

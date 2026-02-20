@@ -1,0 +1,14 @@
+command_id: 7E0.22210E
+test_cases:
+- expected_values:
+    RENAULT_ENGINE_ROT_COUNT: 2156.55766
+  response: 7E80762210E808A7557
+- expected_values:
+    RENAULT_ENGINE_ROT_COUNT: 2156.57854
+  response: 7E80762210E808AC6EB
+- expected_values:
+    RENAULT_ENGINE_ROT_COUNT: 2156.58618
+  response: 7E80762210E808AE4C3
+- expected_values:
+    RENAULT_ENGINE_ROT_COUNT: 2156.59216
+  response: 7E80762210E808AFC20

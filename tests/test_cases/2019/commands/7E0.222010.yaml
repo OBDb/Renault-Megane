@@ -1,0 +1,8 @@
+command_id: 7E0.222010
+test_cases:
+- expected_values:
+    RENAULT_MOTOR_STS: 32
+  response: '7E80462201020'
+- expected_values:
+    RENAULT_MOTOR_STS: 48
+  response: '7E80462201030'

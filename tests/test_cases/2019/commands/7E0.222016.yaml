@@ -1,0 +1,8 @@
+command_id: 7E0.222016
+test_cases:
+- expected_values:
+    RENAULT_CRANK_SYNC: 0
+  response: '7E80462201600'
+- expected_values:
+    RENAULT_CRANK_SYNC: 1
+  response: '7E80462201601'

@@ -1,0 +1,8 @@
+command_id: 7E0.222099
+test_cases:
+- expected_values:
+    RENAULT_ALT_LOAD: 3.13725
+  response: '7E80462209908'
+- expected_values:
+    RENAULT_ALT_LOAD: 56.47059
+  response: '7E80462209990'

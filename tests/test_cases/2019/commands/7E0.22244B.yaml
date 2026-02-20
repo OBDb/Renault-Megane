@@ -1,0 +1,8 @@
+command_id: 7E0.22244B
+test_cases:
+- expected_values:
+    RENAULT_O2_UP_HEAT_R: 0
+  response: 7E80462244B00
+- expected_values:
+    RENAULT_O2_UP_HEAT_R: 41.96078
+  response: 7E80462244B6B

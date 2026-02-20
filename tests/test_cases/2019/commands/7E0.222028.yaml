@@ -1,0 +1,5 @@
+command_id: 7E0.222028
+test_cases:
+- expected_values:
+    RENAULT_OBD_LIGHT_REQ: 0
+  response: '7E80462202800'
