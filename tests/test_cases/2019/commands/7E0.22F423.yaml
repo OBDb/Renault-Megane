@@ -1,8 +1,8 @@
 command_id: 7E0.22F423
 test_cases:
 - expected_values:
-    RENAULT_LPG_P: 98.8
-  response: 7E80562F42303DC
+    RENAULT_LPG_P: 98.7
+  response: 7E80562F42303DB
 - expected_values:
     RENAULT_LPG_P: 204.6
   response: 7E80562F42307FE
