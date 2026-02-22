@@ -1,11 +1,11 @@
 command_id: 7E0.222005
 test_cases:
 - expected_values:
-    RENAULT_ECU_SUPPLY_V: 11.76
-  response: '7E8056220050498'
+    RENAULT_ECU_SUPPLY_V: 11.68
+  response: '7E8056220050490'
 - expected_values:
-    RENAULT_ECU_SUPPLY_V: 12.64
-  response: 7E80562200504F0
+    RENAULT_ECU_SUPPLY_V: 12.79
+  response: 7E80562200504FF
 - expected_values:
     RENAULT_ECU_SUPPLY_V: 12.81
   response: '7E8056220050501'

@@ -1,11 +1,11 @@
 command_id: 7E0.22200C
 test_cases:
 - expected_values:
-    RENAULT_ACCEL_POT_V2: 0.363
-  response: 7E80562200C016B
+    RENAULT_ACCEL_POT_V2: 0.36
+  response: 7E80562200C0168
 - expected_values:
-    RENAULT_ACCEL_POT_V2: 0.751
-  response: 7E80562200C02EF
+    RENAULT_ACCEL_POT_V2: 0.759
+  response: 7E80562200C02F7
 - expected_values:
     RENAULT_ACCEL_POT_V2: 1.03
   response: 7E80562200C0406

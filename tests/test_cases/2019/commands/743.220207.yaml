@@ -13,5 +13,5 @@ test_cases:
     RENAULT_ODO: 79104
   response: '76306620207013500'
 - expected_values:
-    RENAULT_ODO: 90445
-  response: 7630662020701614D
+    RENAULT_ODO: 90624
+  response: '76306620207016200'
