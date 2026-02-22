@@ -4,8 +4,8 @@ test_cases:
     RENAULT_VSS: 0
   response: '7E8056220030000'
 - expected_values:
-    RENAULT_VSS: 92.11
-  response: 7E80562200323FB
+    RENAULT_VSS: 110.06
+  response: 7E8056220032AFE
 - expected_values:
-    RENAULT_VSS: 106.95
-  response: 7E80562200329C7
+    RENAULT_VSS: 116.05
+  response: 7E8056220032D55
