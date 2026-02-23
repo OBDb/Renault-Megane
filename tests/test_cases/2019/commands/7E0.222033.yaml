@@ -1,8 +1,8 @@
 command_id: 7E0.222033
 test_cases:
 - expected_values:
-    RENAULT_IN_CAM_DEPHASER_OCR: 8.98
-  response: '7E8056220330382'
+    RENAULT_IN_CAM_DEPHASER_OCR: 8.82
+  response: '7E8056220330372'
 - expected_values:
     RENAULT_IN_CAM_DEPHASER_OCR: 10.23
   response: 7E80562203303FF
