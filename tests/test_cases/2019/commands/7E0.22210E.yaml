@@ -24,3 +24,9 @@ test_cases:
 - expected_values:
     RENAULT_ENGINE_ROT_COUNT: 2156.80836
   response: 7E80762210E808E48AA
+- expected_values:
+    RENAULT_ENGINE_ROT_COUNT: 2156.80979
+  response: 7E80762210E808E4E41
+- expected_values:
+    RENAULT_ENGINE_ROT_COUNT: 2156.8402
+  response: 7E80762210E808EC50B

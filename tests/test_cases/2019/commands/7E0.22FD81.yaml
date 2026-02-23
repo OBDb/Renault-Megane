@@ -1,8 +1,8 @@
 command_id: 7E0.22FD81
 test_cases:
 - expected_values:
-    RENAULT_MANIFOLD_P_SNS_V: 0.0415
-  response: 7E80562FD8100AA
+    RENAULT_MANIFOLD_P_SNS_V: 0.04004
+  response: 7E80562FD8100A4
 - expected_values:
     RENAULT_MANIFOLD_P_SNS_V: 0.06226
   response: 7E80562FD8100FF
