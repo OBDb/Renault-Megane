@@ -4,8 +4,11 @@ test_cases:
     RENAULT_ACCEL_POT_V2: 0.36
   response: 7E80562200C0168
 - expected_values:
-    RENAULT_ACCEL_POT_V2: 0.759
-  response: 7E80562200C02F7
+    RENAULT_ACCEL_POT_V2: 0.764
+  response: 7E80562200C02FC
 - expected_values:
     RENAULT_ACCEL_POT_V2: 1.03
   response: 7E80562200C0406
+- expected_values:
+    RENAULT_ACCEL_POT_V2: 2.274
+  response: 7E80562200C08E2

@@ -7,5 +7,5 @@ test_cases:
     RENAULT_ACCEL_POS: 0.31875
   response: 7E80562202E00FF
 - expected_values:
-    RENAULT_ACCEL_POS: 0.3575
-  response: 7E80562202E011E
+    RENAULT_ACCEL_POS: 1.25
+  response: 7E80562202E03E8
