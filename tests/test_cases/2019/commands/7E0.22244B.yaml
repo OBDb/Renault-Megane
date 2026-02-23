@@ -4,5 +4,5 @@ test_cases:
     RENAULT_O2_UP_HEAT_R: 0
   response: 7E80462244B00
 - expected_values:
-    RENAULT_O2_UP_HEAT_R: 49.41176
-  response: 7E80462244B7E
+    RENAULT_O2_UP_HEAT_R: 57.2549
+  response: 7E80462244B92

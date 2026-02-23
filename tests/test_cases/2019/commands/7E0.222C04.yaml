@@ -1,6 +1,9 @@
 command_id: 7E0.222C04
 test_cases:
 - expected_values:
+    RENAULT_GEARBOX_RATIO: 0
+  response: 7E804622C0400
+- expected_values:
     RENAULT_GEARBOX_RATIO: 1
   response: 7E804622C0401
 - expected_values:

@@ -4,5 +4,5 @@ test_cases:
     RENAULT_O2_DN_HEAT_R: 0
   response: 7E80462244C00
 - expected_values:
-    RENAULT_O2_DN_HEAT_R: 96.86275
-  response: 7E80462244CF7
+    RENAULT_O2_DN_HEAT_R: 98.43137
+  response: 7E80462244CFB
