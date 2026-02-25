@@ -4,5 +4,5 @@ test_cases:
     RENAULT_IGN_TIMING_ADV: 23
   response: '7E80462280717'
 - expected_values:
-    RENAULT_IGN_TIMING_ADV: 150
-  response: '7E80462280796'
+    RENAULT_IGN_TIMING_ADV: 152
+  response: '7E80462280798'
