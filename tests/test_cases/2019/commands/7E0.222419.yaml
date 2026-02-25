@@ -1,8 +1,8 @@
 command_id: 7E0.222419
 test_cases:
 - expected_values:
-    RENAULT_THROTTLE_V2: 1.469
-  response: 7E80562241905BD
+    RENAULT_THROTTLE_V2: 1.455
+  response: 7E80562241905AF
 - expected_values:
     RENAULT_THROTTLE_V2: 1.536
   response: '7E8056224190600'
