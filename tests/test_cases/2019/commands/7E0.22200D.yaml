@@ -1,8 +1,8 @@
 command_id: 7E0.22200D
 test_cases:
 - expected_values:
-    RENAULT_REFRIG_P_SNS_V: 0.88
-  response: 7E80562200D0058
+    RENAULT_REFRIG_P_SNS_V: 0.86
+  response: 7E80562200D0056
 - expected_values:
-    RENAULT_REFRIG_P_SNS_V: 1.22
-  response: 7E80562200D007A
+    RENAULT_REFRIG_P_SNS_V: 1.48
+  response: 7E80562200D0094

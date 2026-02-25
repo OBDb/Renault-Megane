@@ -7,8 +7,8 @@ test_cases:
     RENAULT_LPG_P: 102.3
   response: 7E80562F42303FF
 - expected_values:
-    RENAULT_LPG_P: 205
-  response: 7E80562F4230802
+    RENAULT_LPG_P: 128.1
+  response: 7E80562F4230501
 - expected_values:
     RENAULT_LPG_P: 232.9
   response: 7E80562F4230919
