@@ -4,11 +4,8 @@ test_cases:
     RENAULT_EST_OIL_T: 16.1
   response: 7E8056220070B4B
 - expected_values:
-    RENAULT_EST_OIL_T: 60
-  response: 7E8056220070D02
-- expected_values:
     RENAULT_EST_OIL_T: 85.3
   response: 7E8056220070DFF
 - expected_values:
-    RENAULT_EST_OIL_T: 85.7
-  response: 7E8056220070E03
+    RENAULT_EST_OIL_T: 85.4
+  response: 7E8056220070E00

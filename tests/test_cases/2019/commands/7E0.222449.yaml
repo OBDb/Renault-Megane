@@ -1,8 +1,8 @@
 command_id: 7E0.222449
 test_cases:
 - expected_values:
-    RENAULT_O2_UP_V: 656
-  response: '7E8056224490290'
+    RENAULT_O2_UP_V: 14
+  response: 7E805622449000E
 - expected_values:
     RENAULT_O2_UP_V: 1284
   response: '7E8056224490504'
