@@ -4,5 +4,5 @@ test_cases:
     RENAULT_ALT_LOAD: 3.13725
   response: '7E80462209908'
 - expected_values:
-    RENAULT_ALT_LOAD: 56.47059
-  response: '7E80462209990'
+    RENAULT_ALT_LOAD: 57.2549
+  response: '7E80462209992'

@@ -7,8 +7,8 @@ test_cases:
     RENAULT_MANIFOLD_P_LIN: 255
   response: 7E8056224D700FF
 - expected_values:
-    RENAULT_MANIFOLD_P_LIN: 257
-  response: 7E8056224D70101
+    RENAULT_MANIFOLD_P_LIN: 256
+  response: 7E8056224D70100
 - expected_values:
     RENAULT_MANIFOLD_P_LIN: 2066
   response: 7E8056224D70812
