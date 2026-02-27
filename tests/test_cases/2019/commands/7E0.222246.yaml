@@ -4,8 +4,8 @@ test_cases:
     RENAULT_IDLE_REG_INT_CORR: -4.3125
   response: 7E8056222467F76
 - expected_values:
-    RENAULT_IDLE_REG_INT_CORR: -0.09375
-  response: 7E8056222467FFD
+    RENAULT_IDLE_REG_INT_CORR: -0.0625
+  response: 7E8056222467FFE
 - expected_values:
     RENAULT_IDLE_REG_INT_CORR: -1024
   response: '7E8056222468000'

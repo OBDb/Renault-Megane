@@ -4,8 +4,8 @@ test_cases:
     RENAULT_AIR_INLET_T_SNS_V: 0.0498
   response: 7E80562FD8300CC
 - expected_values:
-    RENAULT_AIR_INLET_T_SNS_V: 0.12451
-  response: 7E80562FD8301FE
+    RENAULT_AIR_INLET_T_SNS_V: 0.12476
+  response: 7E80562FD8301FF
 - expected_values:
     RENAULT_AIR_INLET_T_SNS_V: 0.125
   response: 7E80562FD830200

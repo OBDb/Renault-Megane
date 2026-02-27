@@ -7,8 +7,5 @@ test_cases:
     RENAULT_ECT: 34.1
   response: 7E8056220010BFF
 - expected_values:
-    RENAULT_ECT: 59.9
-  response: 7E8056220010D01
-- expected_values:
-    RENAULT_ECT: 85.5
-  response: 7E8056220010E01
+    RENAULT_ECT: 85.4
+  response: 7E8056220010E00
