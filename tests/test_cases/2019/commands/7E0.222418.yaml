@@ -4,8 +4,8 @@ test_cases:
     RENAULT_THROTTLE_V1: 0.52
   response: '7E8056224180208'
 - expected_values:
-    RENAULT_THROTTLE_V1: 0.769
-  response: '7E8056224180301'
+    RENAULT_THROTTLE_V1: 1.024
+  response: '7E8056224180400'
 - expected_values:
     RENAULT_THROTTLE_V1: 3.071
   response: 7E8056224180BFF

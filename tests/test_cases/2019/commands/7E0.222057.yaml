@@ -4,5 +4,5 @@ test_cases:
     RENAULT_ALT_PWR: 100
   response: 7E805622057000A
 - expected_values:
-    RENAULT_ALT_PWR: 1140
-  response: '7E8056220570072'
+    RENAULT_ALT_PWR: 1200
+  response: '7E8056220570078'
