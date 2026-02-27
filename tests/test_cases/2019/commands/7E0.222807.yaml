@@ -1,8 +1,8 @@
 command_id: 7E0.222807
 test_cases:
 - expected_values:
-    RENAULT_IGN_TIMING_ADV: 23
-  response: '7E80462280717'
+    RENAULT_IGN_TIMING_ADV: 20
+  response: '7E80462280714'
 - expected_values:
     RENAULT_IGN_TIMING_ADV: 152
   response: '7E80462280798'
