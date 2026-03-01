@@ -4,11 +4,11 @@ test_cases:
     RENAULT_O2_UP_V: 14
   response: 7E805622449000E
 - expected_values:
+    RENAULT_O2_UP_V: 762
+  response: 7E80562244902FA
+- expected_values:
     RENAULT_O2_UP_V: 769
   response: '7E8056224490301'
-- expected_values:
-    RENAULT_O2_UP_V: 1530
-  response: 7E80562244905FA
 - expected_values:
     RENAULT_O2_UP_V: 2640
   response: 7E8056224490A50

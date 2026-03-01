@@ -4,8 +4,8 @@ test_cases:
     RENAULT_ENGINE_TORQUE: -25.375
   response: 7E8056220042ED4
 - expected_values:
-    RENAULT_ENGINE_TORQUE: -8
-  response: '7E8056220043100'
+    RENAULT_ENGINE_TORQUE: -16
+  response: '7E8056220043000'
 - expected_values:
     RENAULT_ENGINE_TORQUE: -0.03125
   response: 7E80562200431FF
