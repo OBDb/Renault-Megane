@@ -7,5 +7,5 @@ test_cases:
     RENAULT_IN_CAM_DEPHASING: 5.1
   response: 7E80562203100FF
 - expected_values:
-    RENAULT_IN_CAM_DEPHASING: 35.88
-  response: '7E8056220310702'
+    RENAULT_IN_CAM_DEPHASING: 35.84
+  response: '7E8056220310700'
