@@ -1,8 +1,8 @@
 command_id: 7E0.222246
 test_cases:
 - expected_values:
-    RENAULT_IDLE_REG_INT_CORR: -4.3125
-  response: 7E8056222467F76
+    RENAULT_IDLE_REG_INT_CORR: -4.34375
+  response: 7E8056222467F75
 - expected_values:
     RENAULT_IDLE_REG_INT_CORR: -0.03125
   response: 7E8056222467FFF
