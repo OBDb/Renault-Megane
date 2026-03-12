@@ -11,4 +11,4 @@ test_cases:
   response: '7E8056222468000'
 - expected_values:
     RENAULT_IDLE_REG_INT_CORR: -1024
-  response: 7E805622246846B
+  response: '7E8056222468404'
