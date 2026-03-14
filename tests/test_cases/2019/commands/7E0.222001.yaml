@@ -1,8 +1,8 @@
 command_id: 7E0.222001
 test_cases:
 - expected_values:
-    RENAULT_ECT: 20.7
-  response: 7E8056220010B79
+    RENAULT_ECT: 18.2
+  response: 7E8056220010B60
 - expected_values:
     RENAULT_ECT: 34.1
   response: 7E8056220010BFF
