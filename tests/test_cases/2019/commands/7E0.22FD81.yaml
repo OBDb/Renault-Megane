@@ -10,5 +10,5 @@ test_cases:
     RENAULT_MANIFOLD_P_SNS_V: 0.0625
   response: 7E80562FD810100
 - expected_values:
-    RENAULT_MANIFOLD_P_SNS_V: 0.18774
-  response: 7E80562FD810301
+    RENAULT_MANIFOLD_P_SNS_V: 0.5
+  response: 7E80562FD810800
