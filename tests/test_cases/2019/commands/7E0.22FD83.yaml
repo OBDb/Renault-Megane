@@ -1,8 +1,8 @@
 command_id: 7E0.22FD83
 test_cases:
 - expected_values:
-    RENAULT_AIR_INLET_T_SNS_V: 0.03442
-  response: 7E80562FD83008D
+    RENAULT_AIR_INLET_T_SNS_V: 0.02954
+  response: 7E80562FD830079
 - expected_values:
     RENAULT_AIR_INLET_T_SNS_V: 0.06226
   response: 7E80562FD8300FF
