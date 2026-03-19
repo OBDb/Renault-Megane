@@ -18,3 +18,6 @@ test_cases:
 - expected_values:
     RENAULT_IDLE_ADAPT_CORR: -2.71875
   response: 7E80562209A7FA9
+- expected_values:
+    RENAULT_IDLE_ADAPT_CORR: -2.6875
+  response: 7E80562209A7FAA
