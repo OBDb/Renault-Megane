@@ -1,8 +1,8 @@
 command_id: 740.760.224B42|fc=1
 test_cases:
 - expected_values:
-    MEGANE_STEER_SPD: 32689
-  response: 76005624B427FB1
+    MEGANE_STEER_SPD: 30502
+  response: 76005624B427726
 - expected_values:
     MEGANE_STEER_SPD: 32767
   response: 76005624B427FFF

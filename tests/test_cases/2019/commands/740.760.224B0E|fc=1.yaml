@@ -13,6 +13,9 @@ test_cases:
     MEGANE_BRAKE_P_MC: 7
   response: 76004624B0E07
 - expected_values:
+    MEGANE_BRAKE_P_MC: 8
+  response: 76004624B0E08
+- expected_values:
     MEGANE_BRAKE_P_MC: 29
   response: 76004624B0E1D
 - expected_values:

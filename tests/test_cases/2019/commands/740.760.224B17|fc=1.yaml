@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     MEGANE_HYD_T: 14
   response: 76004624B170E
+- expected_values:
+    MEGANE_HYD_T: 22
+  response: 76004624B1716
