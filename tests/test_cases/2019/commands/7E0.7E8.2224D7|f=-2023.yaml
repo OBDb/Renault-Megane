@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2224D7|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_MANIFOLD_P_LIN: 197
+  response: 7E8056224D700C5
+- expected_values:
+    MEGANE_MANIFOLD_P_LIN: 255
+  response: 7E8056224D700FF
+- expected_values:
+    MEGANE_MANIFOLD_P_LIN: 256
+  response: 7E8056224D70100
+- expected_values:
+    MEGANE_MANIFOLD_P_LIN: 2066
+  response: 7E8056224D70812

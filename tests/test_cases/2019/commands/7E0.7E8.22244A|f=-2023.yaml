@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22244A|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_O2_DN_V: 0
+  response: 7E80562244A0000
+- expected_values:
+    MEGANE_O2_DN_V: 766
+  response: 7E80562244A02FE
+- expected_values:
+    MEGANE_O2_DN_V: 1074
+  response: 7E80562244A0432

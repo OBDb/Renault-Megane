@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22281C|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_FUEL_PUMP_CTRL: 0
+  response: 7E80462281C00
+- expected_values:
+    MEGANE_FUEL_PUMP_CTRL: 1
+  response: 7E80462281C01

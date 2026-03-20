@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222246|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_IDLE_REG_INT_CORR: 1016.375
+  response: 7E8056222467F0C
+- expected_values:
+    MEGANE_IDLE_REG_INT_CORR: 1023.96875
+  response: 7E8056222467FFF
+- expected_values:
+    MEGANE_IDLE_REG_INT_CORR: -1024
+  response: '7E8056222468000'
+- expected_values:
+    MEGANE_IDLE_REG_INT_CORR: -991.875
+  response: '7E8056222468404'

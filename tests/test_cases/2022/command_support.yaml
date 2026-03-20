@@ -29,4 +29,4 @@ supported_commands_by_ecu:
   - DB33.015B:BAT_SOC
 unsupported_commands_by_ecu:
   "743":
-  - 743.220207:RENAULT_ODO
+  - '743.220207'

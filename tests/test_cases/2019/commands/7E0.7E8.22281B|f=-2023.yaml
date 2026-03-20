@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22281B|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_LOW_FUEL: 0
+  response: 7E80462281B00
+- expected_values:
+    MEGANE_LOW_FUEL: 1
+  response: 7E80462281B01

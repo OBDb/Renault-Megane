@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22FD83|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_AIR_INLET_T_SNS_V: 0.02954
+  response: 7E80562FD830079
+- expected_values:
+    MEGANE_AIR_INLET_T_SNS_V: 0.06226
+  response: 7E80562FD8300FF
+- expected_values:
+    MEGANE_AIR_INLET_T_SNS_V: 0.0625
+  response: 7E80562FD830100
+- expected_values:
+    MEGANE_AIR_INLET_T_SNS_V: 0.45483
+  response: 7E80562FD830747

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22200F|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_BRAKE_MUX_SIG: 0
+  response: 7E80462200F00
+- expected_values:
+    MEGANE_BRAKE_MUX_SIG: 1
+  response: 7E80462200F01
+- expected_values:
+    MEGANE_BRAKE_MUX_SIG: 2
+  response: 7E80462200F02
