@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222401|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_BOOST_P: 1.013
+  response: 7E80562240103F5

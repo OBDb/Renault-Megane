@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222494|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_TEST_RESULT_2: 0
+  response: '7E80462249400'
+- expected_values:
+    MEGANE_TEST_RESULT_2: 3
+  response: '7E80462249403'

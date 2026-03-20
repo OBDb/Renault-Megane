@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22245D|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_THROTTLE_LIMITS_PROG: 0
+  response: 7E80462245D00

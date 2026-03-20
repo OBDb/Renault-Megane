@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222418|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_THROTTLE_V1: 0.515
+  response: '7E8056224180203'
+- expected_values:
+    MEGANE_THROTTLE_V1: 0.767
+  response: 7E80562241802FF
+- expected_values:
+    MEGANE_THROTTLE_V1: 1.024
+  response: '7E8056224180400'
+- expected_values:
+    MEGANE_THROTTLE_V1: 3.589
+  response: 7E8056224180E05

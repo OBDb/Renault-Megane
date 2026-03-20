@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222415|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_THROTTLE_POS_1: 0
+  response: '7E8056224150000'

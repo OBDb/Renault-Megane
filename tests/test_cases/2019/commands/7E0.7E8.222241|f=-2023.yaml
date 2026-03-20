@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222241|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_IN_CAM_DEPHASER_SOL_PROG: 1
+  response: '7E80462224101'

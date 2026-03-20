@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222161|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_TDC_SNS_SIG: 0
+  response: '7E80462216100'
+- expected_values:
+    MEGANE_TDC_SNS_SIG: 1
+  response: '7E80462216101'
