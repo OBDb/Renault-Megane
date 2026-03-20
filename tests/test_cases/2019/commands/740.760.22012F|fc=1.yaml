@@ -1,0 +1,8 @@
+command_id: 740.760.22012F|fc=1
+test_cases:
+- expected_values:
+    MEGANE_ECU_V: 123
+  response: 7600462012F7B
+- expected_values:
+    MEGANE_ECU_V: 148
+  response: 7600462012F94

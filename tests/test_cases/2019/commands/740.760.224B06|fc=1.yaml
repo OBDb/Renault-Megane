@@ -1,0 +1,14 @@
+command_id: 740.760.224B06|fc=1
+test_cases:
+- expected_values:
+    MEGANE_ODO: 9201252
+  response: 76007624B06008C6664
+- expected_values:
+    MEGANE_ODO: 9201668
+  response: 76007624B06008C6804
+- expected_values:
+    MEGANE_ODO: 9202426
+  response: 76007624B06008C6AFA
+- expected_values:
+    MEGANE_ODO: 9202727
+  response: 76007624B06008C6C27

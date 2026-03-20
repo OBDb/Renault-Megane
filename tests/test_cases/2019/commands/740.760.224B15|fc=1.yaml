@@ -1,0 +1,5 @@
+command_id: 740.760.224B15|fc=1
+test_cases:
+- expected_values:
+    MEGANE_BRAKE_LIGHTS: 0
+  response: 76004624B1500

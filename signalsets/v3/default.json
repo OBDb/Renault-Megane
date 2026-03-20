@@ -1,29 +1,29 @@
 { "commands": [
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "0100"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "0100"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_STEER_ANGLE", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "degrees" }, "name": "Steering wheel angle"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "012F"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "012F"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_ECU_V", "path": "Battery", "fmt": { "len": 8, "max": 255, "unit": "volts" }, "name": "Computer supply voltage"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B00"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B00"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_FL_VSS", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "kilometersPerHour" }, "name": "FL wheel speed"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B01"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B01"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_FR_VSS", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "kilometersPerHour" }, "name": "FR wheel speed"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B02"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B02"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_RL_VSS", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "kilometersPerHour" }, "name": "RL wheel speed"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B03"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B03"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_RR_VSS", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "kilometersPerHour" }, "name": "RR wheel speed"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B04"}, "freq": 0.25,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B04"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_VSS_740", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
   ]},
@@ -31,11 +31,11 @@
   "signals": [
     {"id": "MEGANE_FAULT_CNT", "path": "ECU", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Fault counter"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B06"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B06"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_ODO", "path": "Trips", "fmt": { "len": 32, "max": 4294967295, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B07"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B07"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_ACCEL_LONG", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Acceleration, longitudinal"}
   ]},
@@ -51,59 +51,59 @@
   "signals": [
     {"id": "MEGANE_FAULT_DIST_LAST", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Mileage since last fault"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B0B"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B0B"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_ACCEL_LAT", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "gravity" }, "name": "Acceleration, lateral"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B0C"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B0C"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_YAW", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "unknown" }, "name": "Yaw angle"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B0E"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B0E"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_BRAKE_P_MC", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "bars" }, "name": "Brake pressure, master cylinder"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B11"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B11"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_BRAKE_PEDAL", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Brake pedal"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B14"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B14"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_HAZARD_LED", "path": "Electrical", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Hazard lights LED"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B15"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B15"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_BRAKE_LIGHTS", "path": "Electrical", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Brake lights request"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B17"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B17"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_HYD_T", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "celsius" }, "name": "Hydraulic unit temperature"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B1A"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B1A"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_VEH", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Vehicle status"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B24"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B24"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_SPEEDO_IDX", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "millimeters" }, "name": "Speedometer index"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B26"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B26"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_GBOX_TYPE", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gearbox type"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B27"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B27"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_PARK_BRAKE", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Parking brake"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B2E"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B2E"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_TRAILER_STAB", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Trailer stability"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B31"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B31"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_HILL_START", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Hill start assist"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B35"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B35"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_EBD",              "path": "Engine", "fmt": {           "len": 1, "max": 1, "unit": "scalar" }, "name": "Electronic brakeforce distribution"},
     {"id": "MEGANE_EBD_WARN",         "path": "Engine", "fmt": {"bix": 1,  "len": 1, "max": 1, "unit": "scalar" }, "name": "Electronic brakeforce distribution, warning"},
@@ -126,23 +126,23 @@
     {"id": "MEGANE_BRAKE_DIVE",       "path": "Engine", "fmt": {"bix": 32, "len": 1, "max": 1, "unit": "scalar" }, "name": "Brake dive limiter"},
     {"id": "MEGANE_BRAKE_DIVE_WARN",  "path": "Engine", "fmt": {"bix": 33, "len": 1, "max": 1, "unit": "scalar" }, "name": "Brake dive limiter, warning"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B36"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B36"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_STEER_ANGLE_OFFSET", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "degrees" }, "name": "Steering wheel angle, offset"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B37"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B37"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_ACCEL_LAT_OFFSET", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "gravity" }, "name": "Acceleration offset, lateral"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B38"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B38"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_ACCEL_LONG_OFFSET", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Acceleration offset, longitudinal"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B39"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B39"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_P_SNS_OFFSET", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "bars" }, "name": "Pressure sensor offset"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B3C"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B3C"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_DRIVE_TYPE", "path": "Drivetrain", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Driving type"}
   ]},
@@ -150,19 +150,19 @@
   "signals": [
     {"id": "MEGANE_SUPPLIER_NUM", "path": "ECU", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Supplier number"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B42"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B42"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_STEER_SPD", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "unknown" }, "name": "Steering wheel speed"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B47"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B47"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_GRIP_CTRL", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Improved grip"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B4E"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B4E"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_VACUUM_P", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "bars" }, "name": "Vacuum sensor pressure"}
   ]},
-{ "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4BBB"}, "freq": 1,
+{ "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4BBB"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MEGANE_WHEEL_SPD_SIGN", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Wheel speed sensor, signed"}
   ]},

@@ -1,0 +1,11 @@
+command_id: 740.760.224B04|fc=1
+test_cases:
+- expected_values:
+    MEGANE_VSS_740: 0
+  response: 76005624B040000
+- expected_values:
+    MEGANE_VSS_740: 6654
+  response: 76005624B0419FE
+- expected_values:
+    MEGANE_VSS_740: 11193
+  response: 76005624B042BB9

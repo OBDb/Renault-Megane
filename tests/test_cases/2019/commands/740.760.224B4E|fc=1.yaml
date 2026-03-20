@@ -1,0 +1,5 @@
+command_id: 740.760.224B4E|fc=1
+test_cases:
+- expected_values:
+    MEGANE_VACUUM_P: 15
+  response: 76004624B4E0F
