@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     MEGANE_P_SNS_OFFSET: 127
   response: 76004624B397F
+- expected_values:
+    MEGANE_P_SNS_OFFSET: 128
+  response: 76004624B3980
