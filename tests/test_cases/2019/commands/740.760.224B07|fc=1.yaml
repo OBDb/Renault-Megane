@@ -1,0 +1,8 @@
+command_id: 740.760.224B07|fc=1
+test_cases:
+- expected_values:
+    MEGANE_ACCEL_LONG: 107
+  response: 76004624B076B
+- expected_values:
+    MEGANE_ACCEL_LONG: 140
+  response: 76004624B078C

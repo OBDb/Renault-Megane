@@ -1,0 +1,14 @@
+command_id: 740.760.220100|fc=1
+test_cases:
+- expected_values:
+    MEGANE_STEER_ANGLE: 31598
+  response: 760056201007B6E
+- expected_values:
+    MEGANE_STEER_ANGLE: 32767
+  response: 760056201007FFF
+- expected_values:
+    MEGANE_STEER_ANGLE: 32774
+  response: '760056201008006'
+- expected_values:
+    MEGANE_STEER_ANGLE: 33040
+  response: '760056201008110'

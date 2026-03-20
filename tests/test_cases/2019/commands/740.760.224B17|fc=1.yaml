@@ -1,0 +1,11 @@
+command_id: 740.760.224B17|fc=1
+test_cases:
+- expected_values:
+    MEGANE_HYD_T: 12
+  response: 76004624B170C
+- expected_values:
+    MEGANE_HYD_T: 13
+  response: 76004624B170D
+- expected_values:
+    MEGANE_HYD_T: 14
+  response: 76004624B170E

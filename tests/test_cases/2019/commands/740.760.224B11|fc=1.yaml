@@ -1,0 +1,8 @@
+command_id: 740.760.224B11|fc=1
+test_cases:
+- expected_values:
+    MEGANE_BRAKE_PEDAL: 0
+  response: 76004624B1100
+- expected_values:
+    MEGANE_BRAKE_PEDAL: 1
+  response: 76004624B1101

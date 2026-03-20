@@ -1,0 +1,11 @@
+command_id: 740.760.224B0C|fc=1
+test_cases:
+- expected_values:
+    MEGANE_YAW: 32713
+  response: 76005624B0C7FC9
+- expected_values:
+    MEGANE_YAW: 32767
+  response: 76005624B0C7FFF
+- expected_values:
+    MEGANE_YAW: 32768
+  response: 76005624B0C8000
