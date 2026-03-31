@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222003|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_VSS: 0
+  response: '7E8056220030000'
+- expected_values:
+    MEGANE_VSS: 89.43
+  response: 7E80562200322EF
+- expected_values:
+    MEGANE_VSS: 93.85
+  response: 7E80562200324A9

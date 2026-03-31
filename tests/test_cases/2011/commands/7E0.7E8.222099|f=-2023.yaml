@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222099|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_ALT_LOAD: 14.90196
+  response: '7E80462209926'
+- expected_values:
+    MEGANE_ALT_LOAD: 52.54902
+  response: '7E80462209986'

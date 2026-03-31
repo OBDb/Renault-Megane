@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222031|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_IN_CAM_DEPHASING: 0
+  response: '7E8056220310000'
+- expected_values:
+    MEGANE_IN_CAM_DEPHASING: 32.16
+  response: '7E8056220310648'
+- expected_values:
+    MEGANE_IN_CAM_DEPHASING: 34.52
+  response: 7E80562203106BE

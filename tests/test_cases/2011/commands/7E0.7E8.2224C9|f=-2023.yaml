@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2224C9|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_THROTTLE_SAFE_MODE_PROG: 20.55
+  response: 7E8056224C9019B

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222022|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_SNS_FEED_V2: 5.01
+  response: '7E8056220221392'

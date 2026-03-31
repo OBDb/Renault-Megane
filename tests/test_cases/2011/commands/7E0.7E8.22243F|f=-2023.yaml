@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22243F|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_INLET_AIR_T: 14.2
+  response: 7E80562243F0B38
+- expected_values:
+    MEGANE_INLET_AIR_T: 30.7
+  response: 7E80562243F0BDD
+- expected_values:
+    MEGANE_INLET_AIR_T: 36
+  response: 7E80562243F0C12

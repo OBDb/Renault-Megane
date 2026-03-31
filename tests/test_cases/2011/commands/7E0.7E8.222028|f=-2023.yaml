@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222028|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_OBD_LIGHT_REQ: 0
+  response: '7E80462202800'

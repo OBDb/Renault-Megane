@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222057|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_ALT_PWR: 200
+  response: '7E8056220570014'
+- expected_values:
+    MEGANE_ALT_PWR: 1020
+  response: '7E8056220570066'
