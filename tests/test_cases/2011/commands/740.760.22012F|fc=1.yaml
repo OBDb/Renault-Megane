@@ -1,0 +1,29 @@
+command_id: 740.760.22012F|fc=1
+test_cases:
+- expected_values:
+    MEGANE_ECU_V: 175
+  response: 7600462012FAF
+- expected_values:
+    MEGANE_ECU_V: 176
+  response: 7600462012FB0
+- expected_values:
+    MEGANE_ECU_V: 186
+  response: 7600462012FBA
+- expected_values:
+    MEGANE_ECU_V: 187
+  response: 7600462012FBB
+- expected_values:
+    MEGANE_ECU_V: 188
+  response: 7600462012FBC
+- expected_values:
+    MEGANE_ECU_V: 189
+  response: 7600462012FBD
+- expected_values:
+    MEGANE_ECU_V: 190
+  response: 7600462012FBE
+- expected_values:
+    MEGANE_ECU_V: 205
+  response: 7600462012FCD
+- expected_values:
+    MEGANE_ECU_V: 206
+  response: 7600462012FCE

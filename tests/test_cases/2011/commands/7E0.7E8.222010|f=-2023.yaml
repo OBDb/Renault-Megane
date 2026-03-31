@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222010|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_MOTOR: 32
+  response: '7E80462201020'
+- expected_values:
+    MEGANE_MOTOR: 48
+  response: '7E80462201030'

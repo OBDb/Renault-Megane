@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22209A|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_IDLE_ADAPT_CORR: -1021.4375
+  response: 7E80562209A8052

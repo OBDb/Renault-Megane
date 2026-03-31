@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222457|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_THROTTLE_LOW_STOP_PROG: 9.75
+  response: 7E80562245700C3

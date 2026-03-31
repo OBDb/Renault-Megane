@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22284E|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_RICHNESS_CORR: 1
+  response: 7E80462284E01
+- expected_values:
+    MEGANE_RICHNESS_CORR: 2
+  response: 7E80462284E02
+- expected_values:
+    MEGANE_RICHNESS_CORR: 4
+  response: 7E80462284E04
+- expected_values:
+    MEGANE_RICHNESS_CORR: 8
+  response: 7E80462284E08
+- expected_values:
+    MEGANE_RICHNESS_CORR: 16
+  response: 7E80462284E10

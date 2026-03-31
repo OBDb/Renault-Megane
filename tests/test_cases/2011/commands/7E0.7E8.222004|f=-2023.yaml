@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222004|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_ENGINE_TORQUE: -45.34375
+  response: 7E8056220042C55
+- expected_values:
+    MEGANE_ENGINE_TORQUE: 8.28125
+  response: '7E8056220043309'
+- expected_values:
+    MEGANE_ENGINE_TORQUE: 39.8125
+  response: 7E80562200436FA
+- expected_values:
+    MEGANE_ENGINE_TORQUE: 286.65625
+  response: 7E80562200455D5

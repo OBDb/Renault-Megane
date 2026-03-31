@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222414|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_THROTTLE_POS_REF: 12.55
+  response: 7E80562241400FB
+- expected_values:
+    MEGANE_THROTTLE_POS_REF: 13.15
+  response: '7E8056224140107'
+- expected_values:
+    MEGANE_THROTTLE_POS_REF: 84.75
+  response: 7E805622414069F

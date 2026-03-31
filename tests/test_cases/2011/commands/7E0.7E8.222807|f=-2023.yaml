@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222807|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_IGN_TIMING_ADV: 0
+  response: '7E80462280700'
+- expected_values:
+    MEGANE_IGN_TIMING_ADV: 162
+  response: 7E804622807A2

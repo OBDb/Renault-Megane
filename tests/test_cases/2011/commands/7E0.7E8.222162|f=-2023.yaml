@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222162|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_CRANK_SYNC_LOSS_CNT: 114
+  response: '7E8056221620072'

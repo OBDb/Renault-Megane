@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22FD8B|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_COOLANT_T_SNS_V: 1.25
+  response: 7E80562FD8B1400
+- expected_values:
+    MEGANE_COOLANT_T_SNS_V: 1.55469
+  response: 7E80562FD8B18E0
+- expected_values:
+    MEGANE_COOLANT_T_SNS_V: 4.00781
+  response: 7E80562FD8B4020

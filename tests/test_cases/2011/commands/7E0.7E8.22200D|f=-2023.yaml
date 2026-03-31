@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22200D|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_REFRIG_P_SNS_V: 0.68
+  response: 7E80562200D0044
+- expected_values:
+    MEGANE_REFRIG_P_SNS_V: 0.69
+  response: 7E80562200D0045
+- expected_values:
+    MEGANE_REFRIG_P_SNS_V: 0.7
+  response: 7E80562200D0046
+- expected_values:
+    MEGANE_REFRIG_P_SNS_V: 0.71
+  response: 7E80562200D0047
+- expected_values:
+    MEGANE_REFRIG_P_SNS_V: 0.72
+  response: 7E80562200D0048
+- expected_values:
+    MEGANE_REFRIG_P_SNS_V: 0.73
+  response: 7E80562200D0049
+- expected_values:
+    MEGANE_REFRIG_P_SNS_V: 0.74
+  response: 7E80562200D004A
+- expected_values:
+    MEGANE_REFRIG_P_SNS_V: 0.76
+  response: 7E80562200D004C

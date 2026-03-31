@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22210E|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_ENGINE_ROT_COUNT: 12.12281
+  response: 7E80762210E00B8FABE
+- expected_values:
+    MEGANE_ENGINE_ROT_COUNT: 12.21003
+  response: 7E80762210E00BA4F70
+- expected_values:
+    MEGANE_ENGINE_ROT_COUNT: 12.21413
+  response: 7E80762210E00BA5F75

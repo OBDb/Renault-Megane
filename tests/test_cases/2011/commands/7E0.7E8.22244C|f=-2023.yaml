@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22244C|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_O2_DN_HEAT_R: 0
+  response: 7E80462244C00
+- expected_values:
+    MEGANE_O2_DN_HEAT_R: 7.45098
+  response: 7E80462244C13
+- expected_values:
+    MEGANE_O2_DN_HEAT_R: 9.01961
+  response: 7E80462244C17
+- expected_values:
+    MEGANE_O2_DN_HEAT_R: 87.45098
+  response: 7E80462244CDF
+- expected_values:
+    MEGANE_O2_DN_HEAT_R: 100
+  response: 7E80462244CFF
