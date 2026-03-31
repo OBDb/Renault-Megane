@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     MEGANE_REFRIG_P: 4.4
   response: 7E80562222A002C
+- expected_values:
+    MEGANE_REFRIG_P: 4.7
+  response: 7E80562222A002F

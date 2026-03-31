@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     MEGANE_REFRIG_P_SNS_V: 0.76
   response: 7E80562200D004C
+- expected_values:
+    MEGANE_REFRIG_P_SNS_V: 0.8
+  response: 7E80562200D0050
