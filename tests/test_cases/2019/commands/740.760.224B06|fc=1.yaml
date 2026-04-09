@@ -10,5 +10,5 @@ test_cases:
     MEGANE_ODO: 9211904
   response: 76007624B06008C9000
 - expected_values:
-    MEGANE_ODO: 9223430
-  response: 76007624B06008CBD06
+    MEGANE_ODO: 9223966
+  response: 76007624B06008CBF1E
