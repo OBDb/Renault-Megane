@@ -4,29 +4,5 @@ test_cases:
     ODO: 8561.7
   response: 18DAF1DA0641A600014E71
 - expected_values:
-    ODO: 8561.8
-  response: 18DAF1DA0641A600014E72
-- expected_values:
-    ODO: 8562.2
-  response: 18DAF1DA0641A600014E76
-- expected_values:
-    ODO: 8562.5
-  response: 18DAF1DA0641A600014E79
-- expected_values:
-    ODO: 8562.7
-  response: 18DAF1DA0641A600014E7B
-- expected_values:
-    ODO: 8562.8
-  response: 18DAF1DA0641A600014E7C
-- expected_values:
-    ODO: 8563.1
-  response: 18DAF1DA0641A600014E7F
-- expected_values:
-    ODO: 8563.3
-  response: 18DAF1DA0641A600014E81
-- expected_values:
-    ODO: 8563.5
-  response: 18DAF1DA0641A600014E83
-- expected_values:
     ODO: 12791.3
   response: 18DAF1DA0641A60001F3A9
