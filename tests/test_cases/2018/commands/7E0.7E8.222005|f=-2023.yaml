@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.222005|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_ECU_SUPPLY_V: 11.78
+  response: 7E805622005049A
+- expected_values:
+    MEGANE_ECU_SUPPLY_V: 11.88
+  response: 7E80562200504A4
+- expected_values:
+    MEGANE_ECU_SUPPLY_V: 12.19
+  response: 7E80562200504C3
+- expected_values:
+    MEGANE_ECU_SUPPLY_V: 12.29
+  response: 7E80562200504CD
+- expected_values:
+    MEGANE_ECU_SUPPLY_V: 14.83
+  response: 7E80562200505CB

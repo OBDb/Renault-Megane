@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22244B|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_O2_UP_HEAT_R: 0
+  response: 7E80462244B00
+- expected_values:
+    MEGANE_O2_UP_HEAT_R: 38.82353
+  response: 7E80462244B63
+- expected_values:
+    MEGANE_O2_UP_HEAT_R: 41.17647
+  response: 7E80462244B69
+- expected_values:
+    MEGANE_O2_UP_HEAT_R: 43.13725
+  response: 7E80462244B6E
+- expected_values:
+    MEGANE_O2_UP_HEAT_R: 43.52941
+  response: 7E80462244B6F
+- expected_values:
+    MEGANE_O2_UP_HEAT_R: 43.92157
+  response: 7E80462244B70
+- expected_values:
+    MEGANE_O2_UP_HEAT_R: 46.66667
+  response: 7E80462244B77
+- expected_values:
+    MEGANE_O2_UP_HEAT_R: 49.01961
+  response: 7E80462244B7D

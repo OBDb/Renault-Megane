@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22FD81|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_MANIFOLD_P_SNS_V: 0.8125
+  response: 7E80562FD810D00
+- expected_values:
+    MEGANE_MANIFOLD_P_SNS_V: 0.82812
+  response: 7E80562FD810D40
+- expected_values:
+    MEGANE_MANIFOLD_P_SNS_V: 1
+  response: 7E80562FD811000
+- expected_values:
+    MEGANE_MANIFOLD_P_SNS_V: 1.02344
+  response: 7E80562FD811060
+- expected_values:
+    MEGANE_MANIFOLD_P_SNS_V: 1.29688
+  response: 7E80562FD8114C0
+- expected_values:
+    MEGANE_MANIFOLD_P_SNS_V: 1.42969
+  response: 7E80562FD8116E0
+- expected_values:
+    MEGANE_MANIFOLD_P_SNS_V: 2.52344
+  response: 7E80562FD812860
+- expected_values:
+    MEGANE_MANIFOLD_P_SNS_V: 2.5625
+  response: 7E80562FD812900

@@ -1,0 +1,5 @@
+command_id: 740.760.224BBB|fc=1
+test_cases:
+- expected_values:
+    MEGANE_WHEEL_SPD_SIGN: 3
+  response: 76004624BBB03

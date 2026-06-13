@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.222030|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_IN_CAM_DEPHASER_SETPT: 0
+  response: '7E8056220300000'
+- expected_values:
+    MEGANE_IN_CAM_DEPHASER_SETPT: 5.78
+  response: '7E8056220300121'
+- expected_values:
+    MEGANE_IN_CAM_DEPHASER_SETPT: 14.42
+  response: 7E80562203002D1
+- expected_values:
+    MEGANE_IN_CAM_DEPHASER_SETPT: 36.48
+  response: '7E8056220300720'
+- expected_values:
+    MEGANE_IN_CAM_DEPHASER_SETPT: 39.6
+  response: 7E80562203007BC

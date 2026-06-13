@@ -1,0 +1,5 @@
+command_id: 740.760.224B26|fc=1
+test_cases:
+- expected_values:
+    MEGANE_GBOX_TYPE: 1
+  response: 76004624B2601

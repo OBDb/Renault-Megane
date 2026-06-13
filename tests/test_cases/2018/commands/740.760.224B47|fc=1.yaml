@@ -1,0 +1,5 @@
+command_id: 740.760.224B47|fc=1
+test_cases:
+- expected_values:
+    MEGANE_GRIP_CTRL: 170
+  response: 76004624B47AA

@@ -1,0 +1,26 @@
+command_id: 740.760.224B06|fc=1
+test_cases:
+- expected_values:
+    MEGANE_ODO: 9716959
+  response: 76007624B06009444DF
+- expected_values:
+    MEGANE_ODO: 9716964
+  response: 76007624B06009444E4
+- expected_values:
+    MEGANE_ODO: 9716974
+  response: 76007624B06009444EE
+- expected_values:
+    MEGANE_ODO: 9716993
+  response: 76007624B0600944501
+- expected_values:
+    MEGANE_ODO: 9717014
+  response: 76007624B0600944516
+- expected_values:
+    MEGANE_ODO: 9717030
+  response: 76007624B0600944526
+- expected_values:
+    MEGANE_ODO: 9717051
+  response: 76007624B060094453B
+- expected_values:
+    MEGANE_ODO: 9717063
+  response: 76007624B0600944547

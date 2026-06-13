@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22244A|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_O2_DN_V: 93
+  response: 7E80562244A005D
+- expected_values:
+    MEGANE_O2_DN_V: 146
+  response: 7E80562244A0092
+- expected_values:
+    MEGANE_O2_DN_V: 239
+  response: 7E80562244A00EF
+- expected_values:
+    MEGANE_O2_DN_V: 322
+  response: 7E80562244A0142
+- expected_values:
+    MEGANE_O2_DN_V: 332
+  response: 7E80562244A014C
+- expected_values:
+    MEGANE_O2_DN_V: 337
+  response: 7E80562244A0151
+- expected_values:
+    MEGANE_O2_DN_V: 347
+  response: 7E80562244A015B
+- expected_values:
+    MEGANE_O2_DN_V: 400
+  response: 7E80562244A0190

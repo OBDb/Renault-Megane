@@ -1,0 +1,17 @@
+command_id: 740.760.224B42|fc=1
+test_cases:
+- expected_values:
+    MEGANE_STEER_SPD: 32642
+  response: 76005624B427F82
+- expected_values:
+    MEGANE_STEER_SPD: 32689
+  response: 76005624B427FB1
+- expected_values:
+    MEGANE_STEER_SPD: 32767
+  response: 76005624B427FFF
+- expected_values:
+    MEGANE_STEER_SPD: 33016
+  response: 76005624B4280F8
+- expected_values:
+    MEGANE_STEER_SPD: 33844
+  response: 76005624B428434

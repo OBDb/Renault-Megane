@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.222874|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_MISFIRE_CNT: 0
+  response: '7E8056228740000'
+- expected_values:
+    MEGANE_MISFIRE_CNT: 2
+  response: '7E8056228740002'
+- expected_values:
+    MEGANE_MISFIRE_CNT: 6
+  response: '7E8056228740006'
+- expected_values:
+    MEGANE_MISFIRE_CNT: 7
+  response: '7E8056228740007'
+- expected_values:
+    MEGANE_MISFIRE_CNT: 9
+  response: '7E8056228740009'
+- expected_values:
+    MEGANE_MISFIRE_CNT: 10
+  response: 7E805622874000A

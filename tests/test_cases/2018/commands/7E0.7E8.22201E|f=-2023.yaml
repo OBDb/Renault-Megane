@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22201E|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_AC_COMP: 0
+  response: 7E80462201E00
+- expected_values:
+    MEGANE_AC_COMP: 1
+  response: 7E80462201E01
