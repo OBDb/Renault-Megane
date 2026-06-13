@@ -1,0 +1,5 @@
+command_id: 740.760.224B3C|fc=1
+test_cases:
+- expected_values:
+    MEGANE_DRIVE_TYPE: 1
+  response: 76004624B3C01

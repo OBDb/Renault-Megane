@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.222001|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_ECT: 33.7
+  response: 7E8056220010BFB
+- expected_values:
+    MEGANE_ECT: 38.2
+  response: 7E8056220010C28
+- expected_values:
+    MEGANE_ECT: 39.7
+  response: 7E8056220010C37
+- expected_values:
+    MEGANE_ECT: 43.5
+  response: 7E8056220010C5D
+- expected_values:
+    MEGANE_ECT: 46.5
+  response: 7E8056220010C7B
+- expected_values:
+    MEGANE_ECT: 50.2
+  response: 7E8056220010CA0
+- expected_values:
+    MEGANE_ECT: 55.5
+  response: 7E8056220010CD5
+- expected_values:
+    MEGANE_ECT: 56.2
+  response: 7E8056220010CDC

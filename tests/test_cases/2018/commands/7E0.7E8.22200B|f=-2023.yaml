@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22200B|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_ACCEL_POT_V1: 0.723
+  response: 7E80562200B02D3
+- expected_values:
+    MEGANE_ACCEL_POT_V1: 0.728
+  response: 7E80562200B02D8
+- expected_values:
+    MEGANE_ACCEL_POT_V1: 0.977
+  response: 7E80562200B03D1
+- expected_values:
+    MEGANE_ACCEL_POT_V1: 1.25
+  response: 7E80562200B04E2
+- expected_values:
+    MEGANE_ACCEL_POT_V1: 1.401
+  response: 7E80562200B0579
+- expected_values:
+    MEGANE_ACCEL_POT_V1: 1.421
+  response: 7E80562200B058D
+- expected_values:
+    MEGANE_ACCEL_POT_V1: 1.675
+  response: 7E80562200B068B
+- expected_values:
+    MEGANE_ACCEL_POT_V1: 2.183
+  response: 7E80562200B0887

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222033|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_IN_CAM_DEPHASER_OCR: 0
+  response: '7E8056220330000'
+- expected_values:
+    MEGANE_IN_CAM_DEPHASER_OCR: 38.55
+  response: 7E8056220330F0F
+- expected_values:
+    MEGANE_IN_CAM_DEPHASER_OCR: 38.84
+  response: 7E8056220330F2C
+- expected_values:
+    MEGANE_IN_CAM_DEPHASER_OCR: 42.94
+  response: 7E80562203310C6

@@ -1,0 +1,20 @@
+command_id: 740.760.224B0E|fc=1
+test_cases:
+- expected_values:
+    MEGANE_BRAKE_P_MC: 0
+  response: 76004624B0E00
+- expected_values:
+    MEGANE_BRAKE_P_MC: 12
+  response: 76004624B0E0C
+- expected_values:
+    MEGANE_BRAKE_P_MC: 15
+  response: 76004624B0E0F
+- expected_values:
+    MEGANE_BRAKE_P_MC: 16
+  response: 76004624B0E10
+- expected_values:
+    MEGANE_BRAKE_P_MC: 17
+  response: 76004624B0E11
+- expected_values:
+    MEGANE_BRAKE_P_MC: 28
+  response: 76004624B0E1C

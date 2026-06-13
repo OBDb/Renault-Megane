@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.222007|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_EST_OIL_T: 26.2
+  response: 7E8056220070BB0
+- expected_values:
+    MEGANE_EST_OIL_T: 32.1
+  response: 7E8056220070BEB
+- expected_values:
+    MEGANE_EST_OIL_T: 34.2
+  response: 7E8056220070C00
+- expected_values:
+    MEGANE_EST_OIL_T: 35.3
+  response: 7E8056220070C0B
+- expected_values:
+    MEGANE_EST_OIL_T: 39.9
+  response: 7E8056220070C39
