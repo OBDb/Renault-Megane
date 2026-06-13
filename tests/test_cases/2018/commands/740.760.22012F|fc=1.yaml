@@ -13,5 +13,11 @@ test_cases:
     MEGANE_ECU_V: 121
   response: 7600462012F79
 - expected_values:
+    MEGANE_ECU_V: 122
+  response: 7600462012F7A
+- expected_values:
     MEGANE_ECU_V: 123
   response: 7600462012F7B
+- expected_values:
+    MEGANE_ECU_V: 127
+  response: 7600462012F7F

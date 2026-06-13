@@ -4,6 +4,9 @@ test_cases:
     MEGANE_BRAKE_P_MC: 0
   response: 76004624B0E00
 - expected_values:
+    MEGANE_BRAKE_P_MC: 5
+  response: 76004624B0E05
+- expected_values:
     MEGANE_BRAKE_P_MC: 12
   response: 76004624B0E0C
 - expected_values:
@@ -16,5 +19,11 @@ test_cases:
     MEGANE_BRAKE_P_MC: 17
   response: 76004624B0E11
 - expected_values:
+    MEGANE_BRAKE_P_MC: 18
+  response: 76004624B0E12
+- expected_values:
     MEGANE_BRAKE_P_MC: 28
   response: 76004624B0E1C
+- expected_values:
+    MEGANE_BRAKE_P_MC: 41
+  response: 76004624B0E29

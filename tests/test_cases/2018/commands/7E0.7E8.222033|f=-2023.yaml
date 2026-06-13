@@ -4,6 +4,9 @@ test_cases:
     MEGANE_IN_CAM_DEPHASER_OCR: 0
   response: '7E8056220330000'
 - expected_values:
+    MEGANE_IN_CAM_DEPHASER_OCR: 35.55
+  response: 7E8056220330DE3
+- expected_values:
     MEGANE_IN_CAM_DEPHASER_OCR: 38.55
   response: 7E8056220330F0F
 - expected_values:
@@ -12,3 +15,6 @@ test_cases:
 - expected_values:
     MEGANE_IN_CAM_DEPHASER_OCR: 42.94
   response: 7E80562203310C6
+- expected_values:
+    MEGANE_IN_CAM_DEPHASER_OCR: 44.29
+  response: 7E805622033114D

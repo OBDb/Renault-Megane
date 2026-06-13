@@ -7,11 +7,20 @@ test_cases:
     MEGANE_ECU_SUPPLY_V: 11.88
   response: 7E80562200504A4
 - expected_values:
+    MEGANE_ECU_SUPPLY_V: 11.98
+  response: 7E80562200504AE
+- expected_values:
     MEGANE_ECU_SUPPLY_V: 12.19
   response: 7E80562200504C3
 - expected_values:
     MEGANE_ECU_SUPPLY_V: 12.29
   response: 7E80562200504CD
+- expected_values:
+    MEGANE_ECU_SUPPLY_V: 12.7
+  response: 7E80562200504F6
+- expected_values:
+    MEGANE_ECU_SUPPLY_V: 13.41
+  response: 7E805622005053D
 - expected_values:
     MEGANE_ECU_SUPPLY_V: 14.83
   response: 7E80562200505CB

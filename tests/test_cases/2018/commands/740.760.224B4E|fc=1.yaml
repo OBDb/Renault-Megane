@@ -4,6 +4,9 @@ test_cases:
     MEGANE_VACUUM_P: 9
   response: 76004624B4E09
 - expected_values:
+    MEGANE_VACUUM_P: 10
+  response: 76004624B4E0A
+- expected_values:
     MEGANE_VACUUM_P: 11
   response: 76004624B4E0B
 - expected_values:

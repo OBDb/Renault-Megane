@@ -4,23 +4,5 @@ test_cases:
     MEGANE_IGN_TIMING_ADV: 65
   response: '7E80462280741'
 - expected_values:
-    MEGANE_IGN_TIMING_ADV: 73
-  response: '7E80462280749'
-- expected_values:
-    MEGANE_IGN_TIMING_ADV: 76
-  response: 7E8046228074C
-- expected_values:
-    MEGANE_IGN_TIMING_ADV: 92
-  response: 7E8046228075C
-- expected_values:
-    MEGANE_IGN_TIMING_ADV: 94
-  response: 7E8046228075E
-- expected_values:
-    MEGANE_IGN_TIMING_ADV: 99
-  response: '7E80462280763'
-- expected_values:
-    MEGANE_IGN_TIMING_ADV: 101
-  response: '7E80462280765'
-- expected_values:
-    MEGANE_IGN_TIMING_ADV: 107
-  response: 7E8046228076B
+    MEGANE_IGN_TIMING_ADV: 130
+  response: '7E80462280782'

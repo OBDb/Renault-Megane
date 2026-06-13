@@ -4,6 +4,9 @@ test_cases:
     MEGANE_ALT_PWR: 10
   response: '7E8056220570001'
 - expected_values:
+    MEGANE_ALT_PWR: 30
+  response: '7E8056220570003'
+- expected_values:
     MEGANE_ALT_PWR: 40
   response: '7E8056220570004'
 - expected_values:
@@ -13,5 +16,14 @@ test_cases:
     MEGANE_ALT_PWR: 70
   response: '7E8056220570007'
 - expected_values:
+    MEGANE_ALT_PWR: 90
+  response: '7E8056220570009'
+- expected_values:
+    MEGANE_ALT_PWR: 220
+  response: '7E8056220570016'
+- expected_values:
     MEGANE_ALT_PWR: 1690
   response: 7E80562205700A9
+- expected_values:
+    MEGANE_ALT_PWR: 2130
+  response: 7E80562205700D5

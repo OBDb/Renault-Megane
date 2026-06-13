@@ -4,6 +4,12 @@ test_cases:
     MEGANE_YAW: 32726
   response: 76005624B0C7FD6
 - expected_values:
+    MEGANE_YAW: 32752
+  response: 76005624B0C7FF0
+- expected_values:
+    MEGANE_YAW: 32760
+  response: 76005624B0C7FF8
+- expected_values:
     MEGANE_YAW: 32761
   response: 76005624B0C7FF9
 - expected_values:
@@ -15,6 +21,9 @@ test_cases:
 - expected_values:
     MEGANE_YAW: 32770
   response: 76005624B0C8002
+- expected_values:
+    MEGANE_YAW: 32771
+  response: 76005624B0C8003
 - expected_values:
     MEGANE_YAW: 32773
   response: 76005624B0C8005

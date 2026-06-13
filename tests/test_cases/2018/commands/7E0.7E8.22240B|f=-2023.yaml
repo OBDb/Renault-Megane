@@ -4,20 +4,8 @@ test_cases:
     MEGANE_MANIFOLD_P: 24.1
   response: 7E80562240B00F1
 - expected_values:
-    MEGANE_MANIFOLD_P: 29.7
-  response: 7E80562240B0129
+    MEGANE_MANIFOLD_P: 25.7
+  response: 7E80562240B0101
 - expected_values:
-    MEGANE_MANIFOLD_P: 32.7
-  response: 7E80562240B0147
-- expected_values:
-    MEGANE_MANIFOLD_P: 38.6
-  response: 7E80562240B0182
-- expected_values:
-    MEGANE_MANIFOLD_P: 57
-  response: 7E80562240B023A
-- expected_values:
-    MEGANE_MANIFOLD_P: 81.3
-  response: 7E80562240B032D
-- expected_values:
-    MEGANE_MANIFOLD_P: 97.5
-  response: 7E80562240B03CF
+    MEGANE_MANIFOLD_P: 80.4
+  response: 7E80562240B0324

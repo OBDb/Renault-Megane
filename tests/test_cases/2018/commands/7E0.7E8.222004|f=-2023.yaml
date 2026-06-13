@@ -4,21 +4,6 @@ test_cases:
     MEGANE_ENGINE_TORQUE: -21
   response: 7E8056220042F60
 - expected_values:
-    MEGANE_ENGINE_TORQUE: -20.90625
-  response: 7E8056220042F63
-- expected_values:
-    MEGANE_ENGINE_TORQUE: -10.59375
-  response: 7E80562200430AD
-- expected_values:
-    MEGANE_ENGINE_TORQUE: -5.96875
-  response: '7E8056220043141'
-- expected_values:
-    MEGANE_ENGINE_TORQUE: 14.21875
-  response: 7E80562200433C7
-- expected_values:
-    MEGANE_ENGINE_TORQUE: 42.75
-  response: '7E8056220043758'
-- expected_values:
     MEGANE_ENGINE_TORQUE: 56.78125
   response: '7E8056220043919'
 - expected_values:

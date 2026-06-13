@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.222C03|f=-2023
 test_cases:
 - expected_values:
+    MEGANE_GEARBOX_RATIO_TGT: 0
+  response: 7E804622C0300
+- expected_values:
     MEGANE_GEARBOX_RATIO_TGT: 1
   response: 7E804622C0301
 - expected_values:

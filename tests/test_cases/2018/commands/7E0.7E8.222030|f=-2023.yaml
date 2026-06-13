@@ -7,8 +7,14 @@ test_cases:
     MEGANE_IN_CAM_DEPHASER_SETPT: 5.78
   response: '7E8056220300121'
 - expected_values:
+    MEGANE_IN_CAM_DEPHASER_SETPT: 9.06
+  response: 7E80562203001C5
+- expected_values:
     MEGANE_IN_CAM_DEPHASER_SETPT: 14.42
   response: 7E80562203002D1
+- expected_values:
+    MEGANE_IN_CAM_DEPHASER_SETPT: 26.94
+  response: '7E8056220300543'
 - expected_values:
     MEGANE_IN_CAM_DEPHASER_SETPT: 36.48
   response: '7E8056220300720'
