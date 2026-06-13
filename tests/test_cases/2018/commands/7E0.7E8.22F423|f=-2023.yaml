@@ -4,23 +4,8 @@ test_cases:
     MEGANE_LPG_P: 36.8
   response: 7E80562F4230170
 - expected_values:
-    MEGANE_LPG_P: 39.2
-  response: 7E80562F4230188
-- expected_values:
-    MEGANE_LPG_P: 40.1
-  response: 7E80562F4230191
-- expected_values:
-    MEGANE_LPG_P: 41.2
-  response: 7E80562F423019C
-- expected_values:
     MEGANE_LPG_P: 55.2
   response: 7E80562F4230228
-- expected_values:
-    MEGANE_LPG_P: 64.7
-  response: 7E80562F4230287
-- expected_values:
-    MEGANE_LPG_P: 73.5
-  response: 7E80562F42302DF
 - expected_values:
     MEGANE_LPG_P: 76.6
   response: 7E80562F42302FE

@@ -1,6 +1,9 @@
 command_id: 740.760.224B07|fc=1
 test_cases:
 - expected_values:
+    MEGANE_ACCEL_LONG: 111
+  response: 76004624B076F
+- expected_values:
     MEGANE_ACCEL_LONG: 121
   response: 76004624B0779
 - expected_values:
@@ -10,6 +13,9 @@ test_cases:
     MEGANE_ACCEL_LONG: 126
   response: 76004624B077E
 - expected_values:
+    MEGANE_ACCEL_LONG: 127
+  response: 76004624B077F
+- expected_values:
     MEGANE_ACCEL_LONG: 128
   response: 76004624B0780
 - expected_values:
@@ -18,6 +24,9 @@ test_cases:
 - expected_values:
     MEGANE_ACCEL_LONG: 133
   response: 76004624B0785
+- expected_values:
+    MEGANE_ACCEL_LONG: 138
+  response: 76004624B078A
 - expected_values:
     MEGANE_ACCEL_LONG: 139
   response: 76004624B078B

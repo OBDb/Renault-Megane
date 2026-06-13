@@ -4,20 +4,5 @@ test_cases:
     MEGANE_ALT_LOAD: 3.13725
   response: '7E80462209908'
 - expected_values:
-    MEGANE_ALT_LOAD: 12.94118
-  response: '7E80462209921'
-- expected_values:
-    MEGANE_ALT_LOAD: 13.33333
-  response: '7E80462209922'
-- expected_values:
-    MEGANE_ALT_LOAD: 14.90196
-  response: '7E80462209926'
-- expected_values:
-    MEGANE_ALT_LOAD: 16.07843
-  response: '7E80462209929'
-- expected_values:
-    MEGANE_ALT_LOAD: 18.43137
-  response: 7E8046220992F
-- expected_values:
-    MEGANE_ALT_LOAD: 23.52941
-  response: 7E8046220993C
+    MEGANE_ALT_LOAD: 100
+  response: 7E804622099FF

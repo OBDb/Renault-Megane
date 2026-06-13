@@ -10,8 +10,17 @@ test_cases:
     MEGANE_STEER_SPD: 32767
   response: 76005624B427FFF
 - expected_values:
+    MEGANE_STEER_SPD: 32844
+  response: 76005624B42804C
+- expected_values:
+    MEGANE_STEER_SPD: 32875
+  response: 76005624B42806B
+- expected_values:
     MEGANE_STEER_SPD: 33016
   response: 76005624B4280F8
 - expected_values:
     MEGANE_STEER_SPD: 33844
   response: 76005624B428434
+- expected_values:
+    MEGANE_STEER_SPD: 34219
+  response: 76005624B4285AB

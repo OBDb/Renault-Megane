@@ -13,5 +13,20 @@ test_cases:
     MEGANE_O2_DN_HEAT_R: 20.78431
   response: 7E80462244C35
 - expected_values:
+    MEGANE_O2_DN_HEAT_R: 21.17647
+  response: 7E80462244C36
+- expected_values:
+    MEGANE_O2_DN_HEAT_R: 27.84314
+  response: 7E80462244C47
+- expected_values:
+    MEGANE_O2_DN_HEAT_R: 38.03922
+  response: 7E80462244C61
+- expected_values:
     MEGANE_O2_DN_HEAT_R: 39.60784
   response: 7E80462244C65
+- expected_values:
+    MEGANE_O2_DN_HEAT_R: 54.5098
+  response: 7E80462244C8B
+- expected_values:
+    MEGANE_O2_DN_HEAT_R: 75.29412
+  response: 7E80462244CC0

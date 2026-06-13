@@ -4,26 +4,8 @@ test_cases:
     MEGANE_STEER_ANGLE: 31675
   response: 760056201007BBB
 - expected_values:
-    MEGANE_STEER_ANGLE: 32673
-  response: 760056201007FA1
+    MEGANE_STEER_ANGLE: 32767
+  response: 760056201007FFF
 - expected_values:
-    MEGANE_STEER_ANGLE: 32707
-  response: 760056201007FC3
-- expected_values:
-    MEGANE_STEER_ANGLE: 32736
-  response: 760056201007FE0
-- expected_values:
-    MEGANE_STEER_ANGLE: 32810
-  response: 76005620100802A
-- expected_values:
-    MEGANE_STEER_ANGLE: 32814
-  response: 76005620100802E
-- expected_values:
-    MEGANE_STEER_ANGLE: 32818
-  response: '760056201008032'
-- expected_values:
-    MEGANE_STEER_ANGLE: 32881
-  response: '760056201008071'
-- expected_values:
-    MEGANE_STEER_ANGLE: 33298
-  response: '760056201008212'
+    MEGANE_STEER_ANGLE: 33543
+  response: '760056201008307'

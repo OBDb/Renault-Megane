@@ -4,23 +4,8 @@ test_cases:
     MEGANE_RR_VSS: 0
   response: 76005624B030000
 - expected_values:
-    MEGANE_RR_VSS: 1201
-  response: 76005624B0304B1
-- expected_values:
-    MEGANE_RR_VSS: 1313
-  response: 76005624B030521
-- expected_values:
-    MEGANE_RR_VSS: 1540
-  response: 76005624B030604
-- expected_values:
-    MEGANE_RR_VSS: 1971
-  response: 76005624B0307B3
-- expected_values:
-    MEGANE_RR_VSS: 2077
-  response: 76005624B03081D
-- expected_values:
-    MEGANE_RR_VSS: 2648
-  response: 76005624B030A58
-- expected_values:
     MEGANE_RR_VSS: 2844
   response: 76005624B030B1C
+- expected_values:
+    MEGANE_RR_VSS: 3027
+  response: 76005624B030BD3

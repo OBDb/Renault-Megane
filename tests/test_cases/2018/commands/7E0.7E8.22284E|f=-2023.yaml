@@ -4,5 +4,8 @@ test_cases:
     MEGANE_RICHNESS_CORR: 1
   response: 7E80462284E01
 - expected_values:
+    MEGANE_RICHNESS_CORR: 2
+  response: 7E80462284E02
+- expected_values:
     MEGANE_RICHNESS_CORR: 16
   response: 7E80462284E10

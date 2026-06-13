@@ -7,11 +7,20 @@ test_cases:
     MEGANE_ACCEL_POT_V2: 0.366
   response: 7E80562200C016E
 - expected_values:
+    MEGANE_ACCEL_POT_V2: 0.542
+  response: 7E80562200C021E
+- expected_values:
+    MEGANE_ACCEL_POT_V2: 0.576
+  response: 7E80562200C0240
+- expected_values:
     MEGANE_ACCEL_POT_V2: 0.586
   response: 7E80562200C024A
 - expected_values:
     MEGANE_ACCEL_POT_V2: 0.601
   response: 7E80562200C0259
+- expected_values:
+    MEGANE_ACCEL_POT_V2: 0.625
+  response: 7E80562200C0271
 - expected_values:
     MEGANE_ACCEL_POT_V2: 0.684
   response: 7E80562200C02AC

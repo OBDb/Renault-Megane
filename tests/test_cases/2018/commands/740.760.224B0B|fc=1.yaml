@@ -4,6 +4,12 @@ test_cases:
     MEGANE_ACCEL_LAT: 120
   response: 76004624B0B78
 - expected_values:
+    MEGANE_ACCEL_LAT: 121
+  response: 76004624B0B79
+- expected_values:
+    MEGANE_ACCEL_LAT: 123
+  response: 76004624B0B7B
+- expected_values:
     MEGANE_ACCEL_LAT: 124
   response: 76004624B0B7C
 - expected_values:

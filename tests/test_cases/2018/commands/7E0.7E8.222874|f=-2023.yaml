@@ -4,8 +4,14 @@ test_cases:
     MEGANE_MISFIRE_CNT: 0
   response: '7E8056228740000'
 - expected_values:
+    MEGANE_MISFIRE_CNT: 1
+  response: '7E8056228740001'
+- expected_values:
     MEGANE_MISFIRE_CNT: 2
   response: '7E8056228740002'
+- expected_values:
+    MEGANE_MISFIRE_CNT: 5
+  response: '7E8056228740005'
 - expected_values:
     MEGANE_MISFIRE_CNT: 6
   response: '7E8056228740006'
@@ -18,3 +24,9 @@ test_cases:
 - expected_values:
     MEGANE_MISFIRE_CNT: 10
   response: 7E805622874000A
+- expected_values:
+    MEGANE_MISFIRE_CNT: 13
+  response: 7E805622874000D
+- expected_values:
+    MEGANE_MISFIRE_CNT: 14
+  response: 7E805622874000E

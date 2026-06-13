@@ -1,29 +1,11 @@
 command_id: 7E0.7E8.222414|f=-2023
 test_cases:
 - expected_values:
-    MEGANE_THROTTLE_POS_REF: 13.3
-  response: 7E805622414010A
+    MEGANE_THROTTLE_POS_REF: 12.45
+  response: 7E80562241400F9
 - expected_values:
-    MEGANE_THROTTLE_POS_REF: 14
-  response: '7E8056224140118'
+    MEGANE_THROTTLE_POS_REF: 13.25
+  response: '7E8056224140109'
 - expected_values:
-    MEGANE_THROTTLE_POS_REF: 14.7
-  response: '7E8056224140126'
-- expected_values:
-    MEGANE_THROTTLE_POS_REF: 15.4
-  response: '7E8056224140134'
-- expected_values:
-    MEGANE_THROTTLE_POS_REF: 16.7
-  response: 7E805622414014E
-- expected_values:
-    MEGANE_THROTTLE_POS_REF: 16.8
-  response: '7E8056224140150'
-- expected_values:
-    MEGANE_THROTTLE_POS_REF: 16.85
-  response: '7E8056224140151'
-- expected_values:
-    MEGANE_THROTTLE_POS_REF: 24.75
-  response: 7E80562241401EF
-- expected_values:
-    MEGANE_THROTTLE_POS_REF: 36.45
-  response: 7E80562241402D9
+    MEGANE_THROTTLE_POS_REF: 29.1
+  response: '7E8056224140246'

@@ -4,21 +4,6 @@ test_cases:
     MEGANE_BOOST_P: 0.973
   response: 7E80562240103CD
 - expected_values:
-    MEGANE_BOOST_P: 0.974
-  response: 7E80562240103CE
-- expected_values:
-    MEGANE_BOOST_P: 0.975
-  response: 7E80562240103CF
-- expected_values:
-    MEGANE_BOOST_P: 0.977
-  response: 7E80562240103D1
-- expected_values:
-    MEGANE_BOOST_P: 0.979
-  response: 7E80562240103D3
-- expected_values:
-    MEGANE_BOOST_P: 0.983
-  response: 7E80562240103D7
-- expected_values:
     MEGANE_BOOST_P: 1.023
   response: 7E80562240103FF
 - expected_values:

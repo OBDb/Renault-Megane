@@ -4,17 +4,8 @@ test_cases:
     MEGANE_IN_CAM_DEPHASING: 0
   response: '7E8056220310000'
 - expected_values:
-    MEGANE_IN_CAM_DEPHASING: 0.4
-  response: '7E8056220310014'
-- expected_values:
-    MEGANE_IN_CAM_DEPHASING: 0.74
-  response: '7E8056220310025'
-- expected_values:
-    MEGANE_IN_CAM_DEPHASING: 10.74
-  response: '7E8056220310219'
-- expected_values:
     MEGANE_IN_CAM_DEPHASING: 14.84
   response: 7E80562203102E6
 - expected_values:
-    MEGANE_IN_CAM_DEPHASING: 15.72
-  response: '7E8056220310312'
+    MEGANE_IN_CAM_DEPHASING: 32.88
+  response: 7E805622031066C

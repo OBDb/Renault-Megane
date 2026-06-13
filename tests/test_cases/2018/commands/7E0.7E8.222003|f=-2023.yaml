@@ -4,20 +4,8 @@ test_cases:
     MEGANE_VSS: 0
   response: '7E8056220030000'
 - expected_values:
-    MEGANE_VSS: 12.93
-  response: 7E805622003050D
-- expected_values:
-    MEGANE_VSS: 14.98
-  response: 7E80562200305DA
-- expected_values:
-    MEGANE_VSS: 16.02
-  response: '7E8056220030642'
-- expected_values:
-    MEGANE_VSS: 20.68
-  response: '7E8056220030814'
-- expected_values:
-    MEGANE_VSS: 32.07
-  response: 7E8056220030C87
+    MEGANE_VSS: 30.62
+  response: 7E8056220030BF6
 - expected_values:
     MEGANE_VSS: 34.01
   response: 7E8056220030D49
