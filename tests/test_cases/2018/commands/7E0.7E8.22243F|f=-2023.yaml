@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     MEGANE_INLET_AIR_T: 30
   response: 7E80562243F0BD6
+- expected_values:
+    MEGANE_INLET_AIR_T: 35.2
+  response: 7E80562243F0C0A

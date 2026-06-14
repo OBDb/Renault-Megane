@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F423|f=-2023
 test_cases:
 - expected_values:
-    MEGANE_LPG_P: 36.8
-  response: 7E80562F4230170
+    MEGANE_LPG_P: 11.6
+  response: 7E80562F4230074
 - expected_values:
     MEGANE_LPG_P: 55.2
   response: 7E80562F4230228
