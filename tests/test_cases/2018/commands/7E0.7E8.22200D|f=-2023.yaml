@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22200D|f=-2023
 test_cases:
 - expected_values:
-    MEGANE_REFRIG_P_SNS_V: 1.13
-  response: 7E80562200D0071
+    MEGANE_REFRIG_P_SNS_V: 1.1
+  response: 7E80562200D006E
 - expected_values:
     MEGANE_REFRIG_P_SNS_V: 1.41
   response: 7E80562200D008D
