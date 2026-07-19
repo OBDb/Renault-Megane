@@ -1,0 +1,5 @@
+command_id: DB33.0102
+test_cases:
+- expected_values:
+    DTCFRZF: 0
+  response: 18DAF1150441020000
