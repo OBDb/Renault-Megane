@@ -1,0 +1,4 @@
+model_year: 2005
+unsupported_commands_by_ecu:
+  "7E0":
+  - 7E0.7E8.222031|f=-2023:MEGANE_IN_CAM_DEPHASING
