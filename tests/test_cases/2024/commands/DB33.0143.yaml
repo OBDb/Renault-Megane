@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LOAD_ABS: 92.54902
   response: 18DAF11504414300EC
+- expected_values:
+    LOAD_ABS: 192.54902
+  response: 18DAF11504414301EB
