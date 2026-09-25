@@ -1,0 +1,6 @@
+command_id: DB33.0103
+test_cases:
+- expected_values:
+    FUELSYS1: OL-Drive
+    FUELSYS2: 'OFF'
+  response: 18DAF1150441030400
