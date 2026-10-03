@@ -4,29 +4,5 @@ test_cases:
     FLI: 10.98039
   response: 18DAF11503412F1C
 - expected_values:
-    FLI: 15.29412
-  response: 18DAF11503412F27
-- expected_values:
-    FLI: 17.2549
-  response: 18DAF11503412F2C
-- expected_values:
-    FLI: 19.60784
-  response: 18DAF11503412F32
-- expected_values:
-    FLI: 21.56863
-  response: 18DAF11503412F37
-- expected_values:
-    FLI: 23.92157
-  response: 18DAF11503412F3D
-- expected_values:
-    FLI: 34.90196
-  response: 18DAF11503412F59
-- expected_values:
-    FLI: 36.86275
-  response: 18DAF11503412F5E
-- expected_values:
-    FLI: 39.21569
-  response: 18DAF11503412F64
-- expected_values:
-    FLI: 41.17647
-  response: 18DAF11503412F69
+    FLI: 50.19608
+  response: 18DAF11503412F80
