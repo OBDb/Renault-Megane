@@ -4,8 +4,8 @@ test_cases:
     MEGANE_VSS_740: 0
   response: 76005624B040000
 - expected_values:
-    MEGANE_VSS_740: 6654
+    MEGANE_VSS_740: 66.54
   response: 76005624B0419FE
 - expected_values:
-    MEGANE_VSS_740: 11193
+    MEGANE_VSS_740: 111.93
   response: 76005624B042BB9
