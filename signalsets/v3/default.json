@@ -12,23 +12,23 @@
   ]},
 { "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B00"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2020 },
   "signals": [
-    {"id": "MEGANE_FL_VSS", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "kilometersPerHour" }, "name": "FL wheel speed"}
+    {"id": "MEGANE_FL_VSS", "path": "Movement", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "kilometersPerHour" }, "name": "FL wheel speed"}
   ]},
 { "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B01"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2020 },
   "signals": [
-    {"id": "MEGANE_FR_VSS", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "kilometersPerHour" }, "name": "FR wheel speed"}
+    {"id": "MEGANE_FR_VSS", "path": "Movement", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "kilometersPerHour" }, "name": "FR wheel speed"}
   ]},
 { "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B02"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2020 },
   "signals": [
-    {"id": "MEGANE_RL_VSS", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "kilometersPerHour" }, "name": "RL wheel speed"}
+    {"id": "MEGANE_RL_VSS", "path": "Movement", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "kilometersPerHour" }, "name": "RL wheel speed"}
   ]},
 { "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B03"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2020 },
   "signals": [
-    {"id": "MEGANE_RR_VSS", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "kilometersPerHour" }, "name": "RR wheel speed"}
+    {"id": "MEGANE_RR_VSS", "path": "Movement", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "kilometersPerHour" }, "name": "RR wheel speed"}
   ]},
 { "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B04"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2020 },
   "signals": [
-    {"id": "MEGANE_VSS_740", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
+    {"id": "MEGANE_VSS_740", "path": "Movement", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
   ]},
 { "hdr": "740", "rax": "760", "fcm1": true, "dbg": true, "cmd": {"22": "4B05"}, "freq": 1,
   "signals": [

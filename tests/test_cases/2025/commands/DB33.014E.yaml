@@ -4,5 +4,8 @@ test_cases:
     CLR_TIME: 5320
   response: 18DAF1DA04414E14C8
 - expected_values:
+    CLR_TIME: 7432
+  response: 18DAF1DA04414E1D08
+- expected_values:
     CLR_TIME: 16861
   response: 18DAF1DA04414E41DD
