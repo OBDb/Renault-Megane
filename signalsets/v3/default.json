@@ -327,11 +327,11 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2401"}, "freq": 1, "filter": { "to": 2023 }, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2016, 2017], "from": 2020 },
   "signals": [
-    {"id": "MEGANE_BOOST_P", "path": "Engine", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "bars" }, "name": "Boost pressure"}
+    {"id": "MEGANE_BOOST_P", "path": "Engine", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "bars" }, "name": "Boost pressure", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "240B"}, "freq": 1, "filter": { "to": 2023 }, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2016, 2017], "from": 2020 },
   "signals": [
-    {"id": "MEGANE_MANIFOLD_P", "path": "Engine", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilopascal" }, "name": "Manifold pressure"}
+    {"id": "MEGANE_MANIFOLD_P", "path": "Engine", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilopascal" }, "name": "Manifold pressure", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2414"}, "freq": 1, "filter": { "to": 2023 }, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2016, 2017], "from": 2020 },
   "signals": [
