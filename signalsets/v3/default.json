@@ -36,7 +36,7 @@
   ]},
 { "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B06"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2020 },
   "signals": [
-    {"id": "MEGANE_ODO", "path": "Trips", "fmt": { "len": 32, "max": 4294967295, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "MEGANE_ODO", "path": "Trips", "fmt": { "len": 32, "max": 42949672.950000003, "div": 100, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "740", "rax": "760", "fcm1": true, "cmd": {"22": "4B07"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2020 },
   "signals": [
