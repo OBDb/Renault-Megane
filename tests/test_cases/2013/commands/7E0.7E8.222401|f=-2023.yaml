@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.222401|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_BOOST_P: 1
+  response: 7E80562240103E8
+- expected_values:
+    MEGANE_BOOST_P: 1.002
+  response: 7E80562240103EA
+- expected_values:
+    MEGANE_BOOST_P: 1.006
+  response: 7E80562240103EE
+- expected_values:
+    MEGANE_BOOST_P: 1.021
+  response: 7E80562240103FD
+- expected_values:
+    MEGANE_BOOST_P: 1.026
+  response: '7E8056224010402'
+- expected_values:
+    MEGANE_BOOST_P: 1.051
+  response: 7E805622401041B
+- expected_values:
+    MEGANE_BOOST_P: 1.057
+  response: '7E8056224010421'
+- expected_values:
+    MEGANE_BOOST_P: 1.276
+  response: 7E80562240104FC
+- expected_values:
+    MEGANE_BOOST_P: 1.523
+  response: 7E80562240105F3

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22222A|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_REFRIG_P: 2.5
+  response: 7E80562222A0019
+- expected_values:
+    MEGANE_REFRIG_P: 2.9
+  response: 7E80562222A001D
+- expected_values:
+    MEGANE_REFRIG_P: 3
+  response: 7E80562222A001E
+- expected_values:
+    MEGANE_REFRIG_P: 3.1
+  response: 7E80562222A001F
+- expected_values:
+    MEGANE_REFRIG_P: 3.2
+  response: 7E80562222A0020

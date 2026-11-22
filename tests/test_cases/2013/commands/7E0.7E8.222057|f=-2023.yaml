@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.222057|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_ALT_PWR: 520
+  response: '7E8056220570034'
+- expected_values:
+    MEGANE_ALT_PWR: 550
+  response: '7E8056220570037'
+- expected_values:
+    MEGANE_ALT_PWR: 590
+  response: 7E805622057003B
+- expected_values:
+    MEGANE_ALT_PWR: 660
+  response: '7E8056220570042'
+- expected_values:
+    MEGANE_ALT_PWR: 700
+  response: '7E8056220570046'
+- expected_values:
+    MEGANE_ALT_PWR: 830
+  response: '7E8056220570053'
+- expected_values:
+    MEGANE_ALT_PWR: 2480
+  response: 7E80562205700F8
+- expected_values:
+    MEGANE_ALT_PWR: 2800
+  response: '7E8056220570118'
+- expected_values:
+    MEGANE_ALT_PWR: 2820
+  response: 7E805622057011A
+- expected_values:
+    MEGANE_ALT_PWR: 3490
+  response: 7E805622057015D

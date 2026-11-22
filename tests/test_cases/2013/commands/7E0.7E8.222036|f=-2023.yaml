@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222036|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_ACCEL_DETECT_BLOCKED: 0
+  response: '7E80462203600'
