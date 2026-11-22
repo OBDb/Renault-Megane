@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2224F2
+test_cases:
+- expected_values:
+    MEGANE_MAF: 25.9
+  response: 7E8056224F20103
+- expected_values:
+    MEGANE_MAF: 26.8
+  response: 7E8056224F2010C
+- expected_values:
+    MEGANE_MAF: 32.4
+  response: 7E8056224F20144
+- expected_values:
+    MEGANE_MAF: 45.5
+  response: 7E8056224F201C7
+- expected_values:
+    MEGANE_MAF: 46
+  response: 7E8056224F201CC
+- expected_values:
+    MEGANE_MAF: 54.9
+  response: 7E8056224F20225
+- expected_values:
+    MEGANE_MAF: 70.5
+  response: 7E8056224F202C1
+- expected_values:
+    MEGANE_MAF: 76.4
+  response: 7E8056224F202FC
+- expected_values:
+    MEGANE_MAF: 79.7
+  response: 7E8056224F2031D
+- expected_values:
+    MEGANE_MAF: 93.6
+  response: 7E8056224F203A8

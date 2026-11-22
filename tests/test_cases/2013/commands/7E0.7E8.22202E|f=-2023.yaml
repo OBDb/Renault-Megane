@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22202E|f=-2023
+test_cases:
+- expected_values:
+    MEGANE_ACCEL_POS: 0
+  response: 7E80562202E0000
+- expected_values:
+    MEGANE_ACCEL_POS: 0.02625
+  response: 7E80562202E0015
+- expected_values:
+    MEGANE_ACCEL_POS: 0.0675
+  response: 7E80562202E0036
+- expected_values:
+    MEGANE_ACCEL_POS: 0.15375
+  response: 7E80562202E007B
+- expected_values:
+    MEGANE_ACCEL_POS: 0.1875
+  response: 7E80562202E0096
+- expected_values:
+    MEGANE_ACCEL_POS: 0.215
+  response: 7E80562202E00AC
