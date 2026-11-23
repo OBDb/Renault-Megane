@@ -4,26 +4,8 @@ test_cases:
     MEGANE_ECT: 24.1
   response: 7E8056220010B9B
 - expected_values:
+    MEGANE_ECT: 58.5
+  response: 7E8056220010CF3
+- expected_values:
     MEGANE_ECT: 71.3
   response: 7E8056220010D73
-- expected_values:
-    MEGANE_ECT: 71.9
-  response: 7E8056220010D79
-- expected_values:
-    MEGANE_ECT: 73.3
-  response: 7E8056220010D87
-- expected_values:
-    MEGANE_ECT: 76
-  response: 7E8056220010DA2
-- expected_values:
-    MEGANE_ECT: 77.5
-  response: 7E8056220010DB1
-- expected_values:
-    MEGANE_ECT: 77.9
-  response: 7E8056220010DB5
-- expected_values:
-    MEGANE_ECT: 78.5
-  response: 7E8056220010DBB
-- expected_values:
-    MEGANE_ECT: 78.7
-  response: 7E8056220010DBD

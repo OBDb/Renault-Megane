@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     MEGANE_ENGINE_ROT_COUNT: 2169.68635
   response: 7E80762210E8152C94E
+- expected_values:
+    MEGANE_ENGINE_ROT_COUNT: 2169.71099
+  response: 7E80762210E8153298C

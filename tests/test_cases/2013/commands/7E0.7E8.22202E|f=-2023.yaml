@@ -10,6 +10,9 @@ test_cases:
     MEGANE_ACCEL_POS: 0.0675
   response: 7E80562202E0036
 - expected_values:
+    MEGANE_ACCEL_POS: 0.07625
+  response: 7E80562202E003D
+- expected_values:
     MEGANE_ACCEL_POS: 0.15375
   response: 7E80562202E007B
 - expected_values:
@@ -18,3 +21,6 @@ test_cases:
 - expected_values:
     MEGANE_ACCEL_POS: 0.215
   response: 7E80562202E00AC
+- expected_values:
+    MEGANE_ACCEL_POS: 0.30625
+  response: 7E80562202E00F5

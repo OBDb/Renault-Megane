@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.222099|f=-2023
 test_cases:
 - expected_values:
-    MEGANE_ALT_LOAD: 21.56863
-  response: '7E80462209937'
-- expected_values:
-    MEGANE_ALT_LOAD: 23.13725
-  response: 7E8046220993B
-- expected_values:
-    MEGANE_ALT_LOAD: 24.31373
-  response: 7E8046220993E
-- expected_values:
-    MEGANE_ALT_LOAD: 25.4902
-  response: '7E80462209941'
-- expected_values:
-    MEGANE_ALT_LOAD: 35.29412
-  response: 7E8046220995A
-- expected_values:
-    MEGANE_ALT_LOAD: 38.82353
-  response: '7E80462209963'
-- expected_values:
-    MEGANE_ALT_LOAD: 76.86275
-  response: 7E804622099C4
-- expected_values:
-    MEGANE_ALT_LOAD: 79.21569
-  response: 7E804622099CA
-- expected_values:
-    MEGANE_ALT_LOAD: 86.66667
-  response: 7E804622099DD
+    MEGANE_ALT_LOAD: 14.90196
+  response: '7E80462209926'
 - expected_values:
     MEGANE_ALT_LOAD: 92.54902
   response: 7E804622099EC

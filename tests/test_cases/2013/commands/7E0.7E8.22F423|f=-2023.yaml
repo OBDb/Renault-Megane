@@ -4,29 +4,11 @@ test_cases:
     MEGANE_LPG_P: 287
   response: 7E80562F4230B36
 - expected_values:
-    MEGANE_LPG_P: 321
-  response: 7E80562F4230C8A
-- expected_values:
     MEGANE_LPG_P: 358
   response: 7E80562F4230DFC
 - expected_values:
-    MEGANE_LPG_P: 375
-  response: 7E80562F4230EA6
-- expected_values:
-    MEGANE_LPG_P: 402
-  response: 7E80562F4230FB4
-- expected_values:
-    MEGANE_LPG_P: 439
-  response: 7E80562F4231126
-- expected_values:
-    MEGANE_LPG_P: 509
-  response: 7E80562F42313E2
-- expected_values:
-    MEGANE_LPG_P: 566
-  response: 7E80562F423161C
-- expected_values:
-    MEGANE_LPG_P: 720
-  response: 7E80562F4231C20
+    MEGANE_LPG_P: 385
+  response: 7E80562F4230F0A
 - expected_values:
     MEGANE_LPG_P: 886
   response: 7E80562F423229C
