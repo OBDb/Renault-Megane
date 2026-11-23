@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22240B|f=-2023
 test_cases:
 - expected_values:
-    MEGANE_MANIFOLD_P: 100
-  response: 7E80562240B03E8
+    MEGANE_MANIFOLD_P: 99.8
+  response: 7E80562240B03E6
 - expected_values:
     MEGANE_MANIFOLD_P: 102.2
   response: 7E80562240B03FE
 - expected_values:
-    MEGANE_MANIFOLD_P: 105.8
-  response: 7E80562240B0422
+    MEGANE_MANIFOLD_P: 102.6
+  response: 7E80562240B0402
 - expected_values:
     MEGANE_MANIFOLD_P: 165.1
   response: 7E80562240B0673
