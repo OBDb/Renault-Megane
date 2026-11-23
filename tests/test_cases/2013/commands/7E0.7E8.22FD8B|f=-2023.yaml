@@ -4,29 +4,11 @@ test_cases:
     MEGANE_COOLANT_T_SNS_V: 1.03198
   response: 7E80562FD8B1083
 - expected_values:
-    MEGANE_COOLANT_T_SNS_V: 1.03784
-  response: 7E80562FD8B109B
-- expected_values:
-    MEGANE_COOLANT_T_SNS_V: 1.08569
-  response: 7E80562FD8B115F
-- expected_values:
-    MEGANE_COOLANT_T_SNS_V: 1.09155
-  response: 7E80562FD8B1177
-- expected_values:
-    MEGANE_COOLANT_T_SNS_V: 1.09766
-  response: 7E80562FD8B1190
-- expected_values:
-    MEGANE_COOLANT_T_SNS_V: 1.14551
-  response: 7E80562FD8B1254
-- expected_values:
     MEGANE_COOLANT_T_SNS_V: 1.24072
   response: 7E80562FD8B13DA
 - expected_values:
-    MEGANE_COOLANT_T_SNS_V: 1.30029
-  response: 7E80562FD8B14CE
-- expected_values:
-    MEGANE_COOLANT_T_SNS_V: 1.33643
-  response: 7E80562FD8B1562
+    MEGANE_COOLANT_T_SNS_V: 1.94482
+  response: 7E80562FD8B1F1E
 - expected_values:
     MEGANE_COOLANT_T_SNS_V: 3.75854
   response: 7E80562FD8B3C23
