@@ -4,8 +4,8 @@ test_cases:
     MEGANE_COOLANT_T_SNS_V: 1.03198
   response: 7E80562FD8B1083
 - expected_values:
-    MEGANE_COOLANT_T_SNS_V: 1.24072
-  response: 7E80562FD8B13DA
+    MEGANE_COOLANT_T_SNS_V: 1.68213
+  response: 7E80562FD8B1AEA
 - expected_values:
     MEGANE_COOLANT_T_SNS_V: 1.94482
   response: 7E80562FD8B1F1E

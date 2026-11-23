@@ -19,5 +19,14 @@ test_cases:
     MEGANE_IDLE_REG_INT_CORR: -1014.125
   response: 7E805622246813C
 - expected_values:
+    MEGANE_IDLE_REG_INT_CORR: -1013.625
+  response: 7E805622246814C
+- expected_values:
+    MEGANE_IDLE_REG_INT_CORR: -1013.15625
+  response: 7E805622246815B
+- expected_values:
     MEGANE_IDLE_REG_INT_CORR: -1010.09375
   response: 7E80562224681BD
+- expected_values:
+    MEGANE_IDLE_REG_INT_CORR: -984.3125
+  response: 7E80562224684F6

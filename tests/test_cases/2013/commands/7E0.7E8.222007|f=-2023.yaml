@@ -4,8 +4,8 @@ test_cases:
     MEGANE_EST_OIL_T: 23.6
   response: 7E8056220070B96
 - expected_values:
-    MEGANE_EST_OIL_T: 58.6
-  response: 7E8056220070CF4
+    MEGANE_EST_OIL_T: 59.2
+  response: 7E8056220070CFA
 - expected_values:
-    MEGANE_EST_OIL_T: 71.1
-  response: 7E8056220070D71
+    MEGANE_EST_OIL_T: 61.9
+  response: 7E8056220070D15
